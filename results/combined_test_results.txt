@@ -1,0 +1,2661 @@
+SYS: a d o r e s
+GOLD: a d o r e s
+
+SYS: g a g n e z
+GOLD: g a g n e z
+
+SYS: é t u d i e
+GOLD: é t u d i e
+
+SYS: é t u d i e
+GOLD: é t u d i e
+
+SYS: t e n t e z
+GOLD: t e n t e z
+
+SYS: r e f a i s
+GOLD: r e f a i s
+
+SYS: d e s c e n d a n t
+GOLD: d e s c e n d a n t
+
+SYS: r e m e r c i e r
+GOLD: r e m e r c i e s
+
+SYS: e x i g e s
+GOLD: e x i g e s
+
+SYS: p r o d u i s a n t
+GOLD: p r o d u i s a n t
+
+SYS: é t e i n d r e
+GOLD: é t e i n d r e
+
+SYS: g a s p i l l e z
+GOLD: g a s p i l l e z
+
+SYS: q u i t t e
+GOLD: q u i t t e
+
+SYS: c h a n t a n t
+GOLD: c h a n t a n t
+
+SYS: i g n o r i a n t
+GOLD: i g n o r a n t
+
+SYS: c o n c e n t
+GOLD: c o n ç o i v e n t
+
+SYS: m a n g e
+GOLD: m a n g e
+
+SYS: n é g o c i e z
+GOLD: n é g o c i e z
+
+SYS: c o n q u é r é
+GOLD: c o n q u i s
+
+SYS: n e t t o i e
+GOLD: n e t t o i e
+
+SYS: a c h è v e
+GOLD: a c h è v e
+
+SYS: c o n c e r n o n s
+GOLD: c o n c e r n o n s
+
+SYS: d é v e l o p p e z
+GOLD: d é v e l o p p e z
+
+SYS: e n t r e n t a n t
+GOLD: e n t r e t e n a n t
+
+SYS: a v a n c e
+GOLD: a v a n c e
+
+SYS: c u l p a b i l l i s
+GOLD: c u l p a b i l i s o n s
+
+SYS: b a l a n ç o n s
+GOLD: b a l a n ç o n s
+
+SYS: f o r c e
+GOLD: f o r c e
+
+SYS: r ê v e n t
+GOLD: r ê v e n t
+
+SYS: e n d u i s
+GOLD: e n d u i s
+
+SYS: g a g n a n t
+GOLD: g a g n a n t
+
+SYS: t é l é p h o n o n s
+GOLD: t é l é p h o n o n s
+
+SYS: b l e s s e r
+GOLD: b l e s s e r
+
+SYS: i n v e n t e
+GOLD: i n v e n t e
+
+SYS: s u i v i s o n s
+GOLD: s u i v o n s
+
+SYS: c o u r s
+GOLD: c o u r s
+
+SYS: a r m a n t
+GOLD: a r m a n t
+
+SYS: v é r i f i e r
+GOLD: v é r i f i e r
+
+SYS: l a i s s e s
+GOLD: l a i s s e s
+
+SYS: c h o i s i t
+GOLD: c h o i s i t
+
+SYS: p r o m e n a n t
+GOLD: p r o m e n a n t
+
+SYS: t u t o i e
+GOLD: t u t o i e
+
+SYS: s a t i s f a i s e z
+GOLD: s a t i s f a i t e s
+
+SYS: s o n g e
+GOLD: s o n g e
+
+SYS: d i r i g e
+GOLD: d i r i g é
+
+SYS: r e c o n s t r u i s o n s
+GOLD: r e c o n s t r u i s o n s
+
+SYS: e m p ê c h e s
+GOLD: e m p ê c h e s
+
+SYS: a i d e z
+GOLD: a i d e z
+
+SYS: g r i m p e
+GOLD: g r i m p e
+
+SYS: s o u f f o r i s o n s
+GOLD: s o u f f r o n s
+
+SYS: a d m e t t e n t a n t
+GOLD: a d m e t t a n t
+
+SYS: r e f a i s a n t
+GOLD: r e f a i s a n t
+
+SYS: p o r t e r
+GOLD: p o r t e r
+
+SYS: r é p é t é
+GOLD: r é p é t é
+
+SYS: e x i s t e
+GOLD: e x i s t e
+
+SYS: e x p r i m e
+GOLD: e x p r i m e
+
+SYS: s o u t e n i r
+GOLD: s o u t e n i r
+
+SYS: d i v o r c e n t
+GOLD: d i v o r c e n t
+
+SYS: d e m e u r a n t
+GOLD: d e m e u r a n t
+
+SYS: v o u v o i e
+GOLD: v o u v o i e
+
+SYS: é t e i g n e n t
+GOLD: é t e i g n e n t
+
+SYS: o b l i g e
+GOLD: o b l i g e
+
+SYS: e m p r u n t e
+GOLD: e m p r u n t e
+
+SYS: d é c h i r e z
+GOLD: d é c h i r e z
+
+SYS: i n t r o d u i s e z
+GOLD: i n t r o d u i s e z
+
+SYS: r é p a r e r
+GOLD: r é p a r e r
+
+SYS: o f f r e
+GOLD: o f f r e
+
+SYS: p e r d
+GOLD: p e r d u
+
+SYS: a r r i v e z
+GOLD: a r r i v e z
+
+SYS: e n n u i e z
+GOLD: e n n u y e z
+
+SYS: s o u f f r e s
+GOLD: s o u f f r e s
+
+SYS: a c q u i e r
+GOLD: a c q u i e r t
+
+SYS: n é g o c i e n t
+GOLD: n é g o c i e n t
+
+SYS: d e m a n t e s
+GOLD: d e m a n d e s
+
+SYS: a c c o m p a g n e
+GOLD: a c c o m p a g n e
+
+SYS: r a n g e z
+GOLD: r a n g e z
+
+SYS: e n t r e n s
+GOLD: e n t e n d s
+
+SYS: b o y o n s
+GOLD: b u v o n s
+
+SYS: l o g e z
+GOLD: l o g e z
+
+SYS: é c r é s é
+GOLD: é c r a s é
+
+SYS: p r o u v e r
+GOLD: p r o u v e r
+
+SYS: e n s e i g n a n t
+GOLD: e n s e i g n a n t
+
+SYS: c o m m e n ç e z
+GOLD: c o m m e n c e z
+
+SYS: r e f u s e
+GOLD: r e f u s e
+
+SYS: l a n c e
+GOLD: l a n c e
+
+SYS: r e t o u r n a n t
+GOLD: r e t o u r n a n t
+
+SYS: r o c e i r
+GOLD: c r o i r e
+
+SYS: c r é a n t
+GOLD: c r é a n t
+
+SYS: e n c o u r a g e
+GOLD: e n c o u r a g e
+
+SYS: e n t r e n t
+GOLD: e n t r e n t
+
+SYS: r a l e n t
+GOLD: r a l e n t i t
+
+SYS: l e v a n t
+GOLD: l e v a n t
+
+SYS: d o u b l e s
+GOLD: d o u b l e s
+
+SYS: l a n c e r
+GOLD: l a n c e r
+
+SYS: v e n e z
+GOLD: v e n e z
+
+SYS: d o u t e
+GOLD: d o u t e
+
+SYS: c o n s o m m e
+GOLD: c o n s o m m e
+
+SYS: r e l i s a n t
+GOLD: r e l i s a n t
+
+SYS: d o u t a n t
+GOLD: d o u t a n t
+
+SYS: a v e n t u r é
+GOLD: a v e n t u r é
+
+SYS: p u e n t
+GOLD: p u e n t
+
+SYS: s e c o u e
+GOLD: s e c o u e
+
+SYS: l o g e r
+GOLD: l o g e r
+
+SYS: c h a n t e z
+GOLD: c h a n t e z
+
+SYS: b r i s e n t
+GOLD: b r i s e n t
+
+SYS: m a r c h o n s
+GOLD: m a r c h o n s
+
+SYS: j o u é
+GOLD: j o u é
+
+SYS: o c c u p e
+GOLD: o c c u p e
+
+SYS: r e c e v o i r
+GOLD: r e c e v o i r
+
+SYS: r e m p l a g o n s
+GOLD: r e m p l a ç o n s
+
+SYS: é c h a p p e s
+GOLD: é c h a p p e s
+
+SYS: d i s s o u r e
+GOLD: d i s s o u d r e
+
+SYS: u s e s
+GOLD: u s e s
+
+SYS: a i d e s
+GOLD: a i d e s
+
+SYS: a c c o m p a g a n t
+GOLD: a c c o m p a g n a n t
+
+SYS: r e p r é s a n t
+GOLD: r e p r é s e n t a n t
+
+SYS: m a n g e
+GOLD: m a n g e
+
+SYS: s i g n e n t
+GOLD: s i g n e n t
+
+SYS: d é n o n c e
+GOLD: d é n o n c e
+
+SYS: v a r i v o n s
+GOLD: v a r i o n s
+
+SYS: o u v r e n t
+GOLD: o u v r e n t
+
+SYS: c o n s e n t a n t
+GOLD: c o n s e n t a n t
+
+SYS: s é d u i s a n t
+GOLD: s é d u i s a n t
+
+SYS: r e j e t t e s
+GOLD: r e j e t t e s
+
+SYS: m a i g r i s
+GOLD: m a i g r i
+
+SYS: i n f o r m e z
+GOLD: i n f o r m e z
+
+SYS: v e n g e
+GOLD: v e n g e
+
+SYS: d é t o u r n e
+GOLD: d é t o u r n e
+
+SYS: f i n i t
+GOLD: f i n i t
+
+SYS: r e v o i v a n t
+GOLD: r e v o y a n t
+
+SYS: r a s s u r e s
+GOLD: r a s s u r e s
+
+SYS: c e s s e s
+GOLD: c e s s e s
+
+SYS: u t i l i r e r
+GOLD: u t i l i s e r
+
+SYS: t e r m i n e r
+GOLD: t e r m i n e r
+
+SYS: j o u e
+GOLD: j o u e
+
+SYS: l i s a n t
+GOLD: l i s a n t
+
+SYS: a v e n t u r e n t
+GOLD: a v e n t u r e n t
+
+SYS: a m è n e s
+GOLD: a m è n e s
+
+SYS: c u e i l l e
+GOLD: c u e i l l e
+
+SYS: c o n c e v e z
+GOLD: c o n c e v e z
+
+SYS: m o n t a n t
+GOLD: m o n t a n t
+
+SYS: r e p r é s e n t e z
+GOLD: r e p r é s e n t e z
+
+SYS: c o u c h e n t
+GOLD: c o u c h e n t
+
+SYS: p l a i s e n t
+GOLD: p l a i s a n t e r
+
+SYS: d é t o u r n e z
+GOLD: d é t o u r n e z
+
+SYS: v a g l e r
+GOLD: a l l e r
+
+SYS: m a n q u é
+GOLD: m a n q u é
+
+SYS: e m p l o y a n t
+GOLD: e m p l o y a n t
+
+SYS: o c c u p e
+GOLD: o c c u p e
+
+SYS: c o n s e i l l e s
+GOLD: c o n s e i l l e s
+
+SYS: e n v o y e z
+GOLD: e n v o y e z
+
+SYS: r e m e r c i e n t
+GOLD: r e m e r c i e n t
+
+SYS: d é f e n d
+GOLD: d é f e n d
+
+SYS: r o u l e s
+GOLD: r o u l e s
+
+SYS: s e c o u e n t
+GOLD: s e c o u e n t
+
+SYS: d i s s o u s s o n s
+GOLD: d i s s o l v o n s
+
+SYS: a s s i s t e z
+GOLD: a s s i s t e z
+
+SYS: s a u v e z
+GOLD: s a u v e z
+
+SYS: c r o s p e n d o n t
+GOLD: c o r r e s p o n d e n t
+
+SYS: c o u v r e
+GOLD: c o u v r e
+
+SYS: p e i n s
+GOLD: p e i n s
+
+SYS: l o g e a n t
+GOLD: l o g e a n t
+
+SYS: r e g r e t t e s
+GOLD: r e g r e t t e s
+
+SYS: t r a h i t
+GOLD: t r a h i t
+
+SYS: b a l a n c e
+GOLD: b a l a n c e
+
+SYS: e n t r a î n e
+GOLD: e n t r a î n e
+
+SYS: d é c i d i e r
+GOLD: d é c i d e r
+
+SYS: b o u i l l e
+GOLD: b o u t
+
+SYS: r e n t r e r
+GOLD: r e n t r e r
+
+SYS: a d o r e n t
+GOLD: a d o r e n t
+
+SYS: s u i s
+GOLD: s u i s
+
+SYS: a b a t t
+GOLD: a b a t
+
+SYS: p r i o n s
+GOLD: p r i o n s
+
+SYS: p e s o n s
+GOLD: p e s o n s
+
+SYS: m e n t a n t
+GOLD: m e n t a n t
+
+SYS: h a b i t e
+GOLD: h a b i t e
+
+SYS: v a i n c u r
+GOLD: v a i n c r e
+
+SYS: c o m p a r e z
+GOLD: c o m p a r e z
+
+SYS: a g a c é
+GOLD: a g a c é
+
+SYS: p o u s s e
+GOLD: p o u s s e
+
+SYS: k l a x o n n e s
+GOLD: k l a x o n n e s
+
+SYS: s i f f l e n t
+GOLD: s i f f l e n t
+
+SYS: d e s c e n d e z
+GOLD: d e s c e n d e z
+
+SYS: s u i s
+GOLD: s u i s
+
+SYS: c o n c e
+GOLD: c o n ç o i t
+
+SYS: o b é i s s a n t
+GOLD: o b é i s s a n t
+
+SYS: f o r c e s
+GOLD: f o r c e s
+
+SYS: n a g e z
+GOLD: n a g e z
+
+SYS: r e m e t t
+GOLD: r e m i s
+
+SYS: i n t e r d i s
+GOLD: i n t e r d i s
+
+SYS: t r a d u i t
+GOLD: t r a d u i t
+
+SYS: v o y a g e o n s
+GOLD: v o y a g e o n s
+
+SYS: s é j o u r n e
+GOLD: s é j o u r n e
+
+SYS: s o u f f l e z
+GOLD: s o u f f l e z
+
+SYS: p r é v e n i r
+GOLD: p r é v e n i r
+
+SYS: e s s a y e n t
+GOLD: e s s a y e n t
+
+SYS: p r é v i e n t
+GOLD: p r é v i e n t
+
+SYS: v i e i l l i s
+GOLD: v i e i l l i s
+
+SYS: d é f e n d s
+GOLD: d é f e n d s
+
+SYS: e x p r i m e r
+GOLD: e x p r i m e r
+
+SYS: c o n d u i s e n t
+GOLD: c o n d u i s e n t
+
+SYS: p é n é t r e
+GOLD: p é n é t r e z
+
+SYS: o b é i s s o n s
+GOLD: o b é i s s o n s
+
+SYS: d e s c e n t
+GOLD: d e s c e n d
+
+SYS: r e j o u r n é
+GOLD: r e t o u r n é
+
+SYS: v i e n s
+GOLD: v i e n s
+
+SYS: r e p r e n a n t
+GOLD: r e p r e n a n t
+
+SYS: t u t o y e r
+GOLD: t u t o y e r
+
+SYS: r é u s i r
+GOLD: r é u s s i r
+
+SYS: c r é e z
+GOLD: c r é e z
+
+SYS: a v e n t u r e r
+GOLD: a v e n t u r e r
+
+SYS: c h a n t e
+GOLD: c h a n t e
+
+SYS: t o n d o n s
+GOLD: t o n d o n s
+
+SYS: c é b l è r e s
+GOLD: c é l è b r e s
+
+SYS: r e t r o u v a n t
+GOLD: r e t r o u v a n t
+
+SYS: a c c r o c h o n s
+GOLD: a c c r o c h o n s
+
+SYS: t r a d u i s e
+GOLD: t r a d u i s
+
+SYS: i n t é r e s s e r
+GOLD: i n t é r e s s e r
+
+SYS: a i m e
+GOLD: a i m e
+
+SYS: r i s q u é
+GOLD: r i s q u é
+
+SYS: d i v o r v a n t
+GOLD: d i v o r ç a n t
+
+SYS: e n t e n t r e n t
+GOLD: e n t r e t e n u
+
+SYS: t o u s s e r
+GOLD: t o u s s e r
+
+SYS: é t u d i é
+GOLD: é t u d i é
+
+SYS: a d m i r e
+GOLD: a d m i r e
+
+SYS: r e m a r q u e z
+GOLD: r e m a r q u e z
+
+SYS: r o u g i t
+GOLD: r o u g i
+
+SYS: e n f u i s
+GOLD: e n f u i s
+
+SYS: t o n d s
+GOLD: t o n d s
+
+SYS: e s s u i a n s
+GOLD: e s s u y é
+
+SYS: b l a g u o n s
+GOLD: b l a g u o n s
+
+SYS: d e m a n d é
+GOLD: d e m a n d é
+
+SYS: c o n c e r n e
+GOLD: c o n c e r n e
+
+SYS: p a s s é
+GOLD: p a s s é
+
+SYS: v i s
+GOLD: v i s
+
+SYS: n i e
+GOLD: n i e
+
+SYS: n o m m e n t
+GOLD: n o m m e n t
+
+SYS: p e i g n o n s
+GOLD: p e i g n o n s
+
+SYS: p e r m e t
+GOLD: p e r m i s
+
+SYS: r e c o u r o n s
+GOLD: r e c o u r o n s
+
+SYS: i n v e n t e n t
+GOLD: i n v e n t e n t
+
+SYS: c o u p e n t
+GOLD: c o u p e n t
+
+SYS: e n d u i s o n s
+GOLD: e n d u i s o n s
+
+SYS: s u r v i s
+GOLD: s u r v i s
+
+SYS: d é c r i s
+GOLD: d é c r i s
+
+SYS: d i s c u t a n t
+GOLD: d i s c u t a n t
+
+SYS: p e n d e n t
+GOLD: p e n d e n t
+
+SYS: p e r d s
+GOLD: p e r d s
+
+SYS: s o u h a i t e n t
+GOLD: s o u h a i t e n t
+
+SYS: a p p r o c h e z
+GOLD: a p p r o c h e z
+
+SYS: f o u r n i
+GOLD: f o u r n i
+
+SYS: p l o n g e z
+GOLD: p l o n g e z
+
+SYS: n i e n t
+GOLD: n i a n t
+
+SYS: b a i s s o n s
+GOLD: b a i s s o n s
+
+SYS: n o u r r e i r
+GOLD: n o u r r i s
+
+SYS: b l e s s a n t
+GOLD: b l e s s a n t
+
+SYS: s i f f l é
+GOLD: s i f f l é
+
+SYS: c o m p a r a r
+GOLD: c o m p a r é
+
+SYS: p l e r u é
+GOLD: p l e u r é
+
+SYS: e n n u i e
+GOLD: e n n u i e
+
+SYS: i m p o r t e z
+GOLD: i m p o r t e z
+
+SYS: c r i e r
+GOLD: c r i e r
+
+SYS: b a v a r d e z
+GOLD: b a v a r d e z
+
+SYS: r a l e n t i s s o n s
+GOLD: r a l e n t i s s o n s
+
+SYS: d e m a n d a n t
+GOLD: d e m a n d a n t
+
+SYS: r e m a r q u e
+GOLD: r e m a r q u e
+
+SYS: i n t e r d i s e n t
+GOLD: i n t e r d i s e n t
+
+SYS: r e l i r e
+GOLD: r e l i r e
+
+SYS: e m b r a n s s
+GOLD: e m b r a s s a n t
+
+SYS: i n t r o d u i s
+GOLD: i n t r o d u i s
+
+SYS: a d m i r a n t
+GOLD: a d m i r a n t
+
+SYS: d e m e u r e n t
+GOLD: d e m e u r e n t
+
+SYS: f i x e n t
+GOLD: f i x e n t
+
+SYS: h a i s
+GOLD: h a ï r
+
+SYS: a t t r a p e s
+GOLD: a t t r a p e s
+
+SYS: é p e l l e s
+GOLD: é p e l l e s
+
+SYS: p e r s u a d e z
+GOLD: p e r s u a d e z
+
+SYS: p e i n d r e
+GOLD: p e i n d r e
+
+SYS: a v a n c o n s
+GOLD: a v a n ç o n s
+
+SYS: f r a p p e s
+GOLD: f r a p p e s
+
+SYS: p l e u t o n t
+GOLD: p e u v e n t
+
+SYS: a s s o n u
+GOLD: a s s i s
+
+SYS: a v a n c e r
+GOLD: a v a n c e r
+
+SYS: a r r a n g e z
+GOLD: a r r a n g e z
+
+SYS: c o n v a n c u
+GOLD: c o n v a i n c u
+
+SYS: c a c h e
+GOLD: c a c h e
+
+SYS: p l e i l e z
+GOLD: p l i e z
+
+SYS: i n t r o d u i s s e
+GOLD: i n t r o d u i s
+
+SYS: c è d e z
+GOLD: c é d e z
+
+SYS: m e t t e t
+GOLD: m e t t e n t
+
+SYS: i n d i q u e r
+GOLD: i n d i q u e r
+
+SYS: d é t o u r n a n t
+GOLD: d é t o u r n a n t
+
+SYS: u t i l i s a n t
+GOLD: u t i l i s a n t
+
+SYS: t r o u v o n s
+GOLD: t r o u v o n s
+
+SYS: d é c o u v r e z
+GOLD: d é c o u v r e z
+
+SYS: p o u s s e s
+GOLD: p o u s s e s
+
+SYS: s u r v e n e z
+GOLD: s u r v e n e z
+
+SYS: s u b i s
+GOLD: s u b i r
+
+SYS: c r i a n t
+GOLD: c r i a n t
+
+SYS: m e s u r e
+GOLD: m e s u r e
+
+SYS: c o n t i e n t
+GOLD: c o n t i e n t
+
+SYS: c u i s
+GOLD: c u i s
+
+SYS: p l a i s a n t e n t
+GOLD: p l a i s a n t e n t
+
+SYS: j e t t e n t
+GOLD: j e t t e n t
+
+SYS: c o n t r a i n s
+GOLD: c o n t r a i n s
+
+SYS: r é v e i l l e
+GOLD: r é v e i l l e
+
+SYS: v a r i e
+GOLD: v a r i é
+
+SYS: e m p l o y e z
+GOLD: e m p l o y e z
+
+SYS: e m b r a n s s e n t
+GOLD: e m b r a s s e n t
+
+SYS: i n t e r v i e n s
+GOLD: i n t e r v i e n s
+
+SYS: s a i s i s e z
+GOLD: s a i s i s s e z
+
+SYS: s u b v e n v e n
+GOLD: s u b v i e n n e n t
+
+SYS: j o u e r
+GOLD: j o u e r
+
+SYS: r e m e t t r e
+GOLD: r e m e t t r e
+
+SYS: d i s c u t e z
+GOLD: d i s c u t e z
+
+SYS: p u e
+GOLD: p u e
+
+SYS: a p p e l l e r
+GOLD: a p p e l e r
+
+SYS: c h a n g é
+GOLD: c h a n g é
+
+SYS: c o n c l u s
+GOLD: c o n c l u s
+
+SYS: a r c r a c h e z
+GOLD: a r r a c h e z
+
+SYS: c o n t r e d i r e
+GOLD: c o n t r e d i r e
+
+SYS: v a i n q u
+GOLD: v a i n c s
+
+SYS: c u i s e n t
+GOLD: c u i s e n t
+
+SYS: j a u n i t
+GOLD: j a u n i t
+
+SYS: a c c u e i l l e s
+GOLD: a c c u e i l l e s
+
+SYS: b a v a r d e n t
+GOLD: b a v a r d e n t
+
+SYS: g r a n d i s
+GOLD: g r a n d i s
+
+SYS: c o n s t r i s e n t
+GOLD: c o n s t r u i s e n t
+
+SYS: p e r m e t t e n t
+GOLD: p e r m e t t e n t
+
+SYS: a u g m e n t e r
+GOLD: a u g m e n t e r
+
+SYS: e m p r u n t e n t
+GOLD: e m p r u n t e n t
+
+SYS: p l e u r e s
+GOLD: p l e u r e s
+
+SYS: d é c h i r e
+GOLD: d é c h i r e
+
+SYS: c h e r c h e z
+GOLD: c h e r c h e z
+
+SYS: a u g m e n t e n t
+GOLD: a u g m e n t e n t
+
+SYS: r e p a s s e r
+GOLD: r e p a s s e r
+
+SYS: p a r v e n a n t
+GOLD: p a r v e n a n t
+
+SYS: p l o n g é
+GOLD: p l o n g é
+
+SYS: a m u s e
+GOLD: a m u s e
+
+SYS: s a t i s a i t
+GOLD: s a t i s f a i t
+
+SYS: s o r t e z
+GOLD: s o r t e z
+
+SYS: b a i s s e s
+GOLD: b a i s s e s
+
+SYS: p r o t è g e
+GOLD: p r o t é g e z
+
+SYS: d é p e n s
+GOLD: d é p e n d s
+
+SYS: d o r m o r o n s
+GOLD: d o r m o n s
+
+SYS: a r c r a c h e s
+GOLD: a r r a c h e s
+
+SYS: c è d e r
+GOLD: c é d e r
+
+SYS: r e c o n s t r u i t
+GOLD: r e c o n s t r u i t
+
+SYS: a d o r e z
+GOLD: a d o r e z
+
+SYS: u s é
+GOLD: u s é
+
+SYS: c o û t e r
+GOLD: c o û t e r
+
+SYS: r e c o u r a n t
+GOLD: r e c o u r a n t
+
+SYS: t e n d u
+GOLD: t e n d u
+
+SYS: s o n n e s
+GOLD: s o n n e s
+
+SYS: é t e i g n a n t
+GOLD: é t e i g n a n t
+
+SYS: v e i l l i r
+GOLD: v i e i l l i r
+
+SYS: c o n s é d i r e r
+GOLD: c o n s i d é r e r
+
+SYS: a p e r u
+GOLD: a p e r ç u
+
+SYS: d é p e n s e r
+GOLD: d é p e n s e r
+
+SYS: p l e i l e
+GOLD: p l i e
+
+SYS: s o n g e z
+GOLD: s o n g e z
+
+SYS: c r o i s
+GOLD: c r o i s
+
+SYS: d é c o u v r e n t
+GOLD: d é c o u v r e n t
+
+SYS: r e l è v e r
+GOLD: r e l e v e r
+
+SYS: p r é s e n t a n t
+GOLD: p r é s e n t a n t
+
+SYS: é l e v e n t
+GOLD: é l è v e n t
+
+SYS: c o n c e r n e s
+GOLD: c o n c e r n e s
+
+SYS: m é r i t e z
+GOLD: m é r i t e z
+
+SYS: a s s u r e n t
+GOLD: a s s u r e n t
+
+SYS: a p p a r t e n i r
+GOLD: a p p a r t e n i r
+
+SYS: r e g r e t t o n s
+GOLD: r e g r e t t o n s
+
+SYS: a r m e z
+GOLD: a r m e z
+
+SYS: r é s o l e s
+GOLD: r é s o l v e z
+
+SYS: s a i s i s
+GOLD: s a i s i
+
+SYS: c o û t e
+GOLD: c o û t e
+
+SYS: b l e s s e
+GOLD: b l e s s e
+
+SYS: c h e r c h e r
+GOLD: c h e r c h e r
+
+SYS: o b é i r
+GOLD: o b é i r
+
+SYS: c o n t i n u e
+GOLD: c o n t i n u e
+
+SYS: s u c é
+GOLD: s u c é
+
+SYS: c o u c h é
+GOLD: c o u c h é
+
+SYS: a t t r a p o n s
+GOLD: a t t r a p o n s
+
+SYS: e n s u g e
+GOLD: e n s e i g n é
+
+SYS: c u i t
+GOLD: c u i t
+
+SYS: c h o i s i e n t
+GOLD: c h o i s i s s e n t
+
+SYS: s e c o u r a n t
+GOLD: s e c o u r a n t
+
+SYS: b r i s e
+GOLD: b r i s e
+
+SYS: p a r v i e n s
+GOLD: p a r v i e n s
+
+SYS: l u
+GOLD: l u
+
+SYS: t r o m p e s
+GOLD: t r o m p e s
+
+SYS: m a n q u e n t
+GOLD: m a n q u e n t
+
+SYS: i n d i q u e z
+GOLD: i n d i q u e z
+
+SYS: g r a t t e n t
+GOLD: g r a t t a n t
+
+SYS: g r a t t e n t
+GOLD: g r a t t e n t
+
+SYS: a r m e
+GOLD: a r m e
+
+SYS: j o u i s s o n s
+GOLD: j o u i s s o n s
+
+SYS: s a t i s f a i s t e n t
+GOLD: s a t i s f o n t
+
+SYS: r e p r e
+GOLD: r e p r i s
+
+SYS: p a r v e n i
+GOLD: p a r v e n u
+
+SYS: c o m m a n t e n t
+GOLD: c o m m a n d e n t
+
+SYS: d e s s e n t
+GOLD: d e s s i n e n t
+
+SYS: c o m p r e n e z
+GOLD: c o m p r e n e z
+
+SYS: d i s c u t e n t
+GOLD: d i s c u t e n t
+
+SYS: c o r r i g e n t
+GOLD: c o r r i g e n t
+
+SYS: p e n d s
+GOLD: p e n d s
+
+SYS: c h a n g e z
+GOLD: c h a n g e z
+
+SYS: i n t e r r o g e z
+GOLD: i n t e r r o g e z
+
+SYS: g o û t é
+GOLD: g o û t é
+
+SYS: m a n g e o n s
+GOLD: m a n g e o n s
+
+SYS: m o n t r a n t
+GOLD: m o n t r a n t
+
+SYS: f é l i c i t o n s
+GOLD: f é l i c i t o n s
+
+SYS: s é p a r é
+GOLD: s é p a r é
+
+SYS: o u v r e z
+GOLD: o u v r e z
+
+SYS: c o n t i n u e n t
+GOLD: c o n t i n u e z
+
+SYS: t o n d r e
+GOLD: t o n d r e
+
+SYS: c h o i s i s
+GOLD: c h o i s i s
+
+SYS: b l â m e
+GOLD: b l â m e
+
+SYS: t e r m i n e
+GOLD: t e r m i n e
+
+SYS: e n t r é
+GOLD: e n t e r r é
+
+SYS: v é r i f i e
+GOLD: v é r i f i o n s
+
+SYS: c r i e s
+GOLD: c r i e s
+
+SYS: s u i t
+GOLD: s u i t
+
+SYS: t r a n s m e t t o n s
+GOLD: t r a n s m e t t o n s
+
+SYS: s u g g é r e z
+GOLD: s u g g é r e z
+
+SYS: a p p r o c h e r
+GOLD: a p p r o c h e r
+
+SYS: a n n o n c e
+GOLD: a n n o n c e
+
+SYS: c o û t e z
+GOLD: c o û t e z
+
+SYS: n i e s
+GOLD: n i e s
+
+SYS: m e n a n t
+GOLD: m e n a n t
+
+SYS: é t e i n t
+GOLD: é t e i n t
+
+SYS: a m u s e r
+GOLD: a m u s e r
+
+SYS: e f f r e
+GOLD: e f f r a y e
+
+SYS: s e c o u s e s
+GOLD: s e c o u e s
+
+SYS: p l e u r o n s
+GOLD: p l e u r o n s
+
+SYS: v e r s e s
+GOLD: v e r s e s
+
+SYS: d é g a g é
+GOLD: d é g a g é
+
+SYS: a b a i s s e
+GOLD: a b a i s s e
+
+SYS: r e s t e r
+GOLD: r e s t e r
+
+SYS: c e s s e
+GOLD: c e s s e
+
+SYS: r e n o u v e n t
+GOLD: r e n o u v e l l e n t
+
+SYS: p r o t é g e a n t
+GOLD: p r o t é g e a n t
+
+SYS: p a s s a n t
+GOLD: p a s s a n t
+
+SYS: t o r d a n t
+GOLD: t o r d a n t
+
+SYS: e f f r e
+GOLD: e f f r a y e r
+
+SYS: b r û l é
+GOLD: b r û l é
+
+SYS: r a l e n t i s
+GOLD: r a l e n t i s
+
+SYS: o u v r e
+GOLD: o u v r e
+
+SYS: d é c r i v e z
+GOLD: d é c r i v e z
+
+SYS: e n g a g e o n s
+GOLD: e n g a g e o n s
+
+SYS: t r a h i s s e n t
+GOLD: t r a h i s s e n t
+
+SYS: r e v e n u
+GOLD: r e v e n u
+
+SYS: r e s s e m b l e s
+GOLD: r e s s e m b l e s
+
+SYS: a c c u s o n s
+GOLD: a c c u s o n s
+
+SYS: p l a c e s
+GOLD: p l a c e s
+
+SYS: g a r d e z
+GOLD: g a r d e z
+
+SYS: e n t r a î n e s
+GOLD: e n t r a î n e s
+
+SYS: p l a i n s
+GOLD: p l a i n s
+
+SYS: m a n g é
+GOLD: m a n g é
+
+SYS: a m é n a g e
+GOLD: a m é n a g e
+
+SYS: s a u t a n t
+GOLD: s a u t a n t
+
+SYS: c o u s e n t
+GOLD: c o u s e n t
+
+SYS: p a r d o n n e r
+GOLD: p a r d o n n e r
+
+SYS: r i s q u e n t
+GOLD: r i s q u e n t
+
+SYS: d o i s
+GOLD: d o i s
+
+SYS: m a n q u e s
+GOLD: m a n q u e s
+
+SYS: b o i t
+GOLD: b o i s
+
+SYS: r e g a r t e n t
+GOLD: r e g a r d e n t
+
+SYS: a s s i s t e
+GOLD: a s s i s t e
+
+SYS: s k i e
+GOLD: s k i e
+
+SYS: r é v e i l l e r
+GOLD: r é v e i l l e r
+
+SYS: a b s t e n e z
+GOLD: a b s t e n e z
+
+SYS: e s s u a n t
+GOLD: e s s u y a n t
+
+SYS: n é g o c i e
+GOLD: n é g o c i e
+
+SYS: d é p l a i s s a n t
+GOLD: d é p l a i s a n t
+
+SYS: f u m e z
+GOLD: f u m e z
+
+SYS: e f f a c e r
+GOLD: e f f a c e r
+
+SYS: d i m i n u e
+GOLD: d i m i n u e
+
+SYS: m o n t e
+GOLD: m o n t e
+
+SYS: e s p é r e
+GOLD: e s p è r e
+
+SYS: c o n t r e d i t
+GOLD: c o n t r e d i t
+
+SYS: r a c o n t e r
+GOLD: r a c o n t e r
+
+SYS: t o n d e n t
+GOLD: t o n d e n t
+
+SYS: s a u v e
+GOLD: s a u v e
+
+SYS: p r o m e t s
+GOLD: p r o m e t
+
+SYS: é l o i g n e r
+GOLD: é l o i g n e r
+
+SYS: p o u r s u i t
+GOLD: p o u r s u i v i
+
+SYS: m é l a n g e
+GOLD: m é l a n g e
+
+SYS: i n s i s t e z
+GOLD: i n s i s t e z
+
+SYS: p e r d a n t
+GOLD: p e r d a n t
+
+SYS: t o u c h a n t
+GOLD: t o u c h a n t
+
+SYS: e x i g e
+GOLD: e x i g e
+
+SYS: d é c o u v r i r
+GOLD: d é c o u v r i r
+
+SYS: d e s s i z
+GOLD: d e s s i n a n t
+
+SYS: p é n r é t e
+GOLD: p é n è t r e
+
+SYS: r e s t o n s
+GOLD: r e s t o n s
+
+SYS: d é p e n s e
+GOLD: d é p e n s e
+
+SYS: v e i l l i s
+GOLD: v i e i l l i
+
+SYS: r i e z
+GOLD: r i e z
+
+SYS: p a r t a n t
+GOLD: p a r t a n t
+
+SYS: r o u g i r
+GOLD: r o u g i r
+
+SYS: c o m p r e n n e n t
+GOLD: c o m p r e n n e n t
+
+SYS: a d m e t t r e
+GOLD: a d m e t t r e
+
+SYS: e x p l o r e r
+GOLD: e x p l o r e r
+
+SYS: r e m p l i s
+GOLD: r e m p l i
+
+SYS: p e i n s
+GOLD: p e i n s
+
+SYS: c o n t r e s
+GOLD: c o n t r e d i s a n t
+
+SYS: m e r t
+GOLD: m e u r t
+
+SYS: t o m b a n t
+GOLD: t o m b a n t
+
+SYS: t u e
+GOLD: t u e
+
+SYS: n a i s
+GOLD: n a i s
+
+SYS: o c c u p e r
+GOLD: o c c u p e r
+
+SYS: c o m p r e n d
+GOLD: c o m p r i s
+
+SYS: e n t e n s
+GOLD: e n t e n d o n s
+
+SYS: f o n d e r
+GOLD: f o n d e r
+
+SYS: m a n q u e
+GOLD: m a n q u e
+
+SYS: a s s u r a n t
+GOLD: a s s u r a n t
+
+SYS: d e v i n é
+GOLD: d e v i n é
+
+SYS: m e n t r i r
+GOLD: m e n t i r
+
+SYS: s u r p r e n d s
+GOLD: s u r p r e n d s
+
+SYS: l o u a n t
+GOLD: l o u a n t
+
+SYS: a b a i s s e
+GOLD: a b a i s s e
+
+SYS: c r i e
+GOLD: c r i é
+
+SYS: c r o i s
+GOLD: c r o i s
+
+SYS: j u r e
+GOLD: j u r e
+
+SYS: é p o u s a n t
+GOLD: é p o u s a n t
+
+SYS: s o u r e
+GOLD: s o u r i t
+
+SYS: t e r m i n a n t
+GOLD: t e r m i n a n t
+
+SYS: r é f l é c h i t
+GOLD: r é f l é c h i t
+
+SYS: é p e l l e
+GOLD: é p e l l e
+
+SYS: e m m e r
+GOLD: e m m e n e r
+
+SYS: d é s i r a n t
+GOLD: d é s i r a n t
+
+SYS: s u r v i e n s
+GOLD: s u r v i e n s
+
+SYS: a c c e p t e n t
+GOLD: a c c e p t e n t
+
+SYS: c o m p t e n t
+GOLD: c o m p t e n t
+
+SYS: r e n o u v e r
+GOLD: r e n o u v e l e r
+
+SYS: j o u i s s e z
+GOLD: j o u i s s e z
+
+SYS: r o u l e z
+GOLD: r o u l e z
+
+SYS: v a n t
+GOLD: a l l a n t
+
+SYS: d e m a n e z
+GOLD: d e m a n d e z
+
+SYS: u s e n t
+GOLD: u s e n t
+
+SYS: c o n s o m m e z
+GOLD: c o n s o m m e z
+
+SYS: a p p r e n n e n t
+GOLD: a p p r e n n e n t
+
+SYS: c o m p l é t a n t
+GOLD: c o m p l é t a n t
+
+SYS: s e c o u r o n s
+GOLD: s e c o u r o n s
+
+SYS: c r i e
+GOLD: c r i e
+
+SYS: s o u h a i t e
+GOLD: s o u h a i t e
+
+SYS: v o l e s
+GOLD: v o l e s
+
+SYS: a d r e s s e
+GOLD: a d r e s s e
+
+SYS: s a u t o n s
+GOLD: s a u t o n s
+
+SYS: v a i n q u
+GOLD: v a i n c s
+
+SYS: b a l a n c é
+GOLD: b a l a n c é
+
+SYS: r e v i e n s
+GOLD: r e v i e n s
+
+SYS: p o s e r
+GOLD: p o s e r
+
+SYS: p a s s e z
+GOLD: p a s s e z
+
+SYS: v o l o n s
+GOLD: v o l o n s
+
+SYS: m é l a n g e r
+GOLD: m é l a n g e r
+
+SYS: a j o u t e s
+GOLD: a j o u t e s
+
+SYS: e n n u i e r
+GOLD: e n n u y e r
+
+SYS: r ê v a n t
+GOLD: r ê v a n t
+
+SYS: c h u c h o t o n t
+GOLD: c h u c h o t o n s
+
+SYS: c o n t r a i e z
+GOLD: c o n t r a i g n e z
+
+SYS: r e p r o d u i s a n t
+GOLD: r e p r o d u i s a n t
+
+SYS: o u v o r t
+GOLD: o u v e r t
+
+SYS: d o r c u
+GOLD: d o r m i
+
+SYS: c h a r g e s
+GOLD: c h a r g e s
+
+SYS: c a s s e
+GOLD: c a s s e
+
+SYS: t o u r n e z
+GOLD: t o u r n e z
+
+SYS: r e v o i s
+GOLD: r e v o i s
+
+SYS: t u t o y o n s
+GOLD: t u t o y o n s
+
+SYS: é t o n n e
+GOLD: é t o n n e
+
+SYS: d é c o u r a g e o n s
+GOLD: d é c o u r a g e o n s
+
+SYS: m é l a n g e
+GOLD: m é l a n g e
+
+SYS: d é t i e n t
+GOLD: d é t i e n t
+
+SYS: e n g a g e z
+GOLD: e n g a g e z
+
+SYS: r é p a r o n s
+GOLD: r é p a r o n s
+
+SYS: d o n n e r
+GOLD: d o n n e r
+
+SYS: r e c u e i l l e z
+GOLD: r e c u e i l l e z
+
+SYS: s é d u i r e
+GOLD: s é d u i r e
+
+SYS: b l a n c h i s s e n t
+GOLD: b l a n c h i s s e n t
+
+SYS: r i s q u e
+GOLD: r i s q u e
+
+SYS: v a i n q u e n t
+GOLD: v a i n q u e n t
+
+SYS: p r o n o n c e
+GOLD: p r o n o n c e
+
+SYS: a t t e n t e n t
+GOLD: a t t e i g n e n t
+
+SYS: r e n t r o n s
+GOLD: r e n c o n t r o n s
+
+SYS: t o m b e
+GOLD: t o m b e
+
+SYS: r e t r o u v e s
+GOLD: r e t r o u v e s
+
+SYS: c u e i l l a n t
+GOLD: c u e i l l a n t
+
+SYS: a p p e l e z
+GOLD: a p p e l e z
+
+SYS: e n t e n t i e n t
+GOLD: e n t r e t i e n n e n t
+
+SYS: t r o u v e n t
+GOLD: t r o u v e n t
+
+SYS: r o u g i t
+GOLD: r o u g i t
+
+SYS: m e s u r e r
+GOLD: m e s u r e r
+
+SYS: r a s s u r a n t
+GOLD: r a s s u r a n t
+
+SYS: b l â m e r
+GOLD: b l â m e r
+
+SYS: c o r r i g e a n t
+GOLD: c o r r i g e a n t
+
+SYS: f i x e z
+GOLD: f i x e z
+
+SYS: a p p r e n a n t
+GOLD: a p p r e n a n t
+
+SYS: r e f u s e s
+GOLD: r e f u s e s
+
+SYS: d a n e s s e z
+GOLD: d a n s e z
+
+SYS: l e v e
+GOLD: l è v e
+
+SYS: m o q u e r
+GOLD: m o q u e r
+
+SYS: c a s s é
+GOLD: c a s s é
+
+SYS: o b t e n a n t
+GOLD: o b t e n a n t
+
+SYS: r é p o n d a n t
+GOLD: r é p o n d a n t
+
+SYS: s u r v e n u
+GOLD: s u r v e n u
+
+SYS: t u e n t
+GOLD: t u e n t
+
+SYS: d é p ê c h e
+GOLD: d é p ê c h e
+
+SYS: r é d i g e
+GOLD: r é d i g e
+
+SYS: c o m p t e
+GOLD: c o m p t e
+
+SYS: i n t é r é s é
+GOLD: i n t é r e s s é
+
+SYS: p l a n t
+GOLD: p l a c e n t
+
+SYS: p a r d o n n o n s
+GOLD: p a r d o n n o n s
+
+SYS: f é l i c i t e z
+GOLD: f é l i c i t e z
+
+SYS: m o u r o n s
+GOLD: m o u r o n s
+
+SYS: d é r a n g e
+GOLD: d é r a n g e
+
+SYS: c o n t r e d i t
+GOLD: c o n t r e d i t
+
+SYS: r e c e v a n t
+GOLD: r e c e v a n t
+
+SYS: t r a n t é
+GOLD: t r a n s m i s
+
+SYS: h a i s
+GOLD: h a ï
+
+SYS: e n d u i s
+GOLD: e n d u i s
+
+SYS: e n v o y a n t
+GOLD: e n v o y a n t
+
+SYS: e s s a y a n t
+GOLD: e s s a y a n t
+
+SYS: c o m m e r c e r
+GOLD: c o m m e n c e r
+
+SYS: a i d e r
+GOLD: a i d e r
+
+SYS: p l a n t e n t
+GOLD: p l a n t e n t
+
+SYS: s k i e s
+GOLD: s k i e s
+
+SYS: c h e r c h e
+GOLD: c h e r c h e
+
+SYS: d e s s i g n o n s
+GOLD: d e s s i n o n s
+
+SYS: j u a n t
+GOLD: j u g e a n t
+
+SYS: g o û t e z
+GOLD: g o û t e z
+
+SYS: v o l e z
+GOLD: v o l e z
+
+SYS: p r o m e t t e z
+GOLD: p r o m e t t e z
+
+SYS: a p p a r t i e n t
+GOLD: a p p a r t i e n t
+
+SYS: h a b i t a n t
+GOLD: h a b i t a n t
+
+SYS: c h a r g e
+GOLD: c h a r g e
+
+SYS: d é g a g e r
+GOLD: d é g a g e r
+
+SYS: c a c h e r
+GOLD: c a c h e r
+
+SYS: f r a p p o n s
+GOLD: f r a p p o n s
+
+SYS: m a i g r e z
+GOLD: m a i g r i s s e z
+
+SYS: p o u s s o n s
+GOLD: p o u s s o n s
+
+SYS: é g a y e
+GOLD: é g a y e
+
+SYS: p e i g n e
+GOLD: p e i g n e
+
+SYS: e n f u i s s e n t
+GOLD: e n f u i e n t
+
+SYS: t u o n s
+GOLD: t u o n s
+
+SYS: a t t r a p e z
+GOLD: a t t r a p e z
+
+SYS: p l i e
+GOLD: p l i é
+
+SYS: c é b r é v é
+GOLD: c é l é b r é
+
+SYS: s o u f f l e s
+GOLD: s o u f f l e s
+
+SYS: r a s s u r e
+GOLD: r a s s u r e
+
+SYS: c o n t r e v i e n t
+GOLD: c o n t r e v i e n t
+
+SYS: p r o m e t t
+GOLD: p r o m i s
+
+SYS: p o u r s u i v a n t
+GOLD: p o u r s u i v a n t
+
+SYS: a s s o i t
+GOLD: a s s o i t
+
+SYS: b r û l e n t
+GOLD: b r û l e n t
+
+SYS: c u l a b i l l e n t
+GOLD: c u l p a b i l i s e n t
+
+SYS: a m e n o n s
+GOLD: a m e n o n s
+
+SYS: n o m m e z
+GOLD: n o m m e z
+
+SYS: v o y a g e
+GOLD: v o y a g e
+
+SYS: r e t o u r n e
+GOLD: r e t o u r n e z
+
+SYS: a c c u s e
+GOLD: a c c u s e
+
+SYS: p r ê t o n s
+GOLD: p r ê t o n s
+
+SYS: b r o s s e z
+GOLD: b r o s s e z
+
+SYS: g r a t t o n s
+GOLD: g r a t t o n s
+
+SYS: p r o u v e z
+GOLD: p r o u v e z
+
+SYS: e f f a r i v o n s
+GOLD: e f f r a y o n s
+
+SYS: i n d i q u e
+GOLD: i n d i q u e
+
+SYS: p o u v o n s
+GOLD: p o u v o n s
+
+SYS: c o m p l é t e
+GOLD: c o m p l è t e
+
+SYS: e n l é v e
+GOLD: e n l e v é
+
+SYS: t e n t e
+GOLD: t e n t e
+
+SYS: a t t e n d u
+GOLD: a t t e n d u
+
+SYS: i n q u i t e n t
+GOLD: i n q u i è t e n t
+
+SYS: i g n o r e
+GOLD: i g n o r e
+
+SYS: s u p p o s e n t
+GOLD: s u p p o s e n t
+
+SYS: a r r i v é
+GOLD: a r r i v é
+
+SYS: p r o d u i s
+GOLD: p r o d u i s
+
+SYS: a f f a i b l i t
+GOLD: a f f a i b l i t
+
+SYS: f u i s s o n s
+GOLD: f u y o n s
+
+SYS: c h a r t a n t
+GOLD: c h a r g e a n t
+
+SYS: i n v e n t e
+GOLD: i n v e n t e
+
+SYS: f é l i c i t e s
+GOLD: f é l i c i t e s
+
+SYS: r e j o i n r e
+GOLD: r e j o i n d r e
+
+SYS: a s s e n t
+GOLD: a s s o i e n t
+
+SYS: e n t r e p r e
+GOLD: e n t r e p r e n d s
+
+SYS: t e n t o n s
+GOLD: t e n t o n s
+
+SYS: r e l i s
+GOLD: r e l i s
+
+SYS: c o m p r e n d s
+GOLD: c o m p r e n d s
+
+SYS: s a u t e r
+GOLD: s a u t e r
+
+SYS: e n d u i t
+GOLD: e n d u i t
+
+SYS: i n t e r r g e n t
+GOLD: i n t e r r o g e n t
+
+SYS: é c o u t e z
+GOLD: é c o u t e z
+
+SYS: r e p o s e
+GOLD: r e p o s e
+
+SYS: f o u r n i t
+GOLD: f o u r n i t
+
+SYS: b l e s s e n t
+GOLD: b l e s s e n t
+
+SYS: g e l o n s
+GOLD: g e l o n s
+
+SYS: p a r t a g e r
+GOLD: p a r t a g e r
+
+SYS: s a i s
+GOLD: s a i s
+
+SYS: o f f r o n s
+GOLD: o f f r o n s
+
+SYS: a g a c e
+GOLD: a g a c e
+
+SYS: a c q u é r i r é
+GOLD: a c q u i s
+
+SYS: e n t r a n t
+GOLD: e n t r a n t
+
+SYS: a i m e
+GOLD: a i m e
+
+SYS: j u r a n t
+GOLD: j u r a n t
+
+SYS: é p o u s é
+GOLD: é p o u s é
+
+SYS: é l i s
+GOLD: é l i s
+
+SYS: g r a t t e s
+GOLD: g r a t t e s
+
+SYS: l o g e
+GOLD: l o g e
+
+SYS: a p p e r t i e
+GOLD: a p e r ç o i t
+
+SYS: a c c r o c h e z
+GOLD: a c c r o c h e z
+
+SYS: c o n v o i c h o n s
+GOLD: c o n v a i n c
+
+SYS: u s e
+GOLD: u s e
+
+SYS: s a t i s a i s a n t
+GOLD: s a t i s f a i s a n t
+
+SYS: o b l i g e a n t
+GOLD: o b l i g e a n t
+
+SYS: d i s c u t é
+GOLD: d i s c u t é
+
+SYS: r e t o u r n o n s
+GOLD: r e t o u r n o n s
+
+SYS: p o u r s u i v e n t
+GOLD: p o u r s u i v e n t
+
+SYS: d é p a s s e
+GOLD: d é p a s s e
+
+SYS: i n d i q u a n t
+GOLD: i n d i q u a n t
+
+SYS: v a r i e z
+GOLD: v a r i e z
+
+SYS: e n g a g e r
+GOLD: e n g a g e r
+
+SYS: e n v o i e s
+GOLD: e n v o i e s
+
+SYS: e x i s t e
+GOLD: e x i s t e
+
+SYS: p r i e
+GOLD: p r i e
+
+SYS: r e p a s s e n t
+GOLD: r e p a s s e n t
+
+SYS: p a r t
+GOLD: p a r t
+
+SYS: d i s p a r a r t e s
+GOLD: d i s p a r a î t r e
+
+SYS: b a i s s e r
+GOLD: b a i s s e r
+
+SYS: s é p a r e n t
+GOLD: s é p a r e n t
+
+SYS: r e c o n s t r u i s e n t
+GOLD: r e c o n s t r u i s e n t
+
+SYS: v o y a g e n t
+GOLD: v o y a g e n t
+
+SYS: p e r m e t s
+GOLD: p e r m e t s
+
+SYS: p a r l é
+GOLD: p a r l é
+
+SYS: c o n s t r i s s a n t
+GOLD: c o n s t r u i s a n t
+
+SYS: v a g é
+GOLD: a l l é
+
+SYS: r e m e t t o n s
+GOLD: r e m e t t o n s
+
+SYS: h é s i t e r
+GOLD: h é s i t e r
+
+SYS: p r o t é g e r
+GOLD: p r o t é g e r
+
+SYS: r é p a r e s
+GOLD: r é p a r e s
+
+SYS: d î n a n t
+GOLD: d î n a n t
+
+SYS: s o n n e n
+GOLD: s o n n e n t
+
+SYS: d é n o n c e z
+GOLD: d é n o n c e z
+
+SYS: r a p p e l l é
+GOLD: r a p p e l é
+
+SYS: s u v i e n n e n t
+GOLD: s u r v i e n n e n t
+
+SYS: s k i é
+GOLD: s k i é
+
+SYS: c o m m a n d e z
+GOLD: c o m m a n d e z
+
+SYS: c h a s s e n t
+GOLD: c h a s s e n t
+
+SYS: h a b i t é
+GOLD: h a b i t é
+
+SYS: s u p p o r t é
+GOLD: s u p p o r t é
+
+SYS: e n n u i e s
+GOLD: e n n u i e s
+
+SYS: r e f a i t
+GOLD: r e f a i t
+
+SYS: a d m i r o n s
+GOLD: a d m i r o n s
+
+SYS: s é p a r e
+GOLD: s é p a r e
+
+SYS: p e n d
+GOLD: p e n d
+
+SYS: c o n t r a i n t
+GOLD: c o n t r a i n t
+
+SYS: e n g a g e
+GOLD: e n g a g e
+
+SYS: i g n o r e r
+GOLD: i g n o r e r
+
+SYS: a n n o n c e r
+GOLD: a n n o n c e r
+
+SYS: r é u s s i s s a n t
+GOLD: r é u s s i s s a n t
+
+SYS: a c c o r d e s
+GOLD: a c c o r d e s
+
+SYS: p l i e n t
+GOLD: p l i e n t
+
+SYS: b o u v i l l a n t
+GOLD: b o u i l l a n t
+
+SYS: d o r m e z
+GOLD: d o r m e z
+
+SYS: a c h è t e n t
+GOLD: a c h è t e n t
+
+SYS: s u r v e n a n t
+GOLD: s u r v e n a n t
+
+SYS: a b a t t e n t
+GOLD: a b a t t a n t
+
+SYS: m e n t
+GOLD: m e n t i
+
+SYS: c o m m a n d e
+GOLD: c o m m a n d e
+
+SYS: c è d e
+GOLD: c è d e
+
+SYS: e u p o u
+GOLD: p u
+
+SYS: m e t r e
+GOLD: m e t t r e
+
+SYS: e s s a y e z
+GOLD: e s s a y e z
+
+SYS: c r a i n s
+GOLD: c r a i n s
+
+SYS: j u r e r
+GOLD: j u r e r
+
+SYS: e n g a g e n t
+GOLD: e n g a g e n t
+
+SYS: c o u v r e z
+GOLD: c o u v r e z
+
+SYS: é v i t o n s
+GOLD: é v i t o n s
+
+SYS: f u i s s e n t
+GOLD: f u i e n t
+
+SYS: h é s i t e n t
+GOLD: h é s i t e n t
+
+SYS: t e r m i n e z
+GOLD: t e r m i n e z
+
+SYS: l a v o n s
+GOLD: l a v o n s
+
+SYS: b â t i s s a n t
+GOLD: b â t i s s a n t
+
+SYS: m a i g r i s
+GOLD: m a i g r i s
+
+SYS: p l a i n t
+GOLD: p l a i n t
+
+SYS: d é p ê c h é
+GOLD: d é p ê c h é
+
+SYS: s o n n é
+GOLD: s o n n é
+
+SYS: d é p e n d r e
+GOLD: d é p e n d r e
+
+SYS: a p e r t e n c e z
+GOLD: a p e r c e v a n t
+
+SYS: e n t r a i n é
+GOLD: e n t r a î n é
+
+SYS: v é r i f i e n t
+GOLD: v é r i f i e n t
+
+SYS: é l o i g n e n t
+GOLD: é l o i g n e n t
+
+SYS: t r a i t e
+GOLD: t r a i t e
+
+SYS: a c c u e i l l e
+GOLD: a c c u e i l l e
+
+SYS: f o n d e
+GOLD: f o n d e
+
+SYS: p r é f è r e
+GOLD: p r é f è r e
+
+SYS: r e f l e n t
+GOLD: r e f u s e n t
+
+SYS: é c r a s e
+GOLD: é c r a s e
+
+SYS: n i e z
+GOLD: n i e z
+
+SYS: i n t é r e s s o n s
+GOLD: i n t é r e s s o n s
+
+SYS: r e c o n s t r u i s
+GOLD: r e c o n s t r u i s
+
+SYS: r e l i s o n s
+GOLD: r e l i s o n s
+
+SYS: a c c e p o n t
+GOLD: a c c e p t o n s
+
+SYS: a v e z
+GOLD: a v e z
+
+SYS: p r é s e n t e s
+GOLD: p r é s e n t e s
+
+SYS: s o u r i s
+GOLD: s o u r i s
+
+SYS: p l i o n s
+GOLD: p l i o n s
+
+SYS: r e v i e n s
+GOLD: r e v i e n s
+
+SYS: r e v ê t s
+GOLD: r e v ê t s
+
+SYS: r e m p l a n t
+GOLD: r e m p l a ç a n t
+
+SYS: a i m e n t
+GOLD: a i m e n t
+
+SYS: h a b i l l e
+GOLD: h a b i l l e
+
+SYS: m e n a c a n t
+GOLD: m e n a ç a n t
+
+SYS: u n i s s o n s
+GOLD: u n i s s o n s
+
+SYS: a j o u t e z
+GOLD: a j o u t e z
+
+SYS: l i s e n t
+GOLD: l i s e n t
+
+SYS: e n d o r m a n t
+GOLD: e n d o r m a n t
+
+SYS: a d m e t t e z
+GOLD: a d m e t t e z
+
+SYS: c o u r u
+GOLD: c o u r u
+
+SYS: s o n t e n t
+GOLD: s a v e n t
+
+SYS: c o n q u é r a n t
+GOLD: c o n q u é r a n t
+
+SYS: a c c o r d e
+GOLD: a c c o r d e
+
+SYS: a c c c e p t é
+GOLD: a c c e p t é
+
+SYS: é c h o u a n t
+GOLD: é c h o u a n t
+
+SYS: r e n c o n t r e n t
+GOLD: r e n c o n t r e n t
+
+SYS: r e f u s e z
+GOLD: r e f u s e z
+
+SYS: e m p r u n t e
+GOLD: e m p r u n t e
+
+SYS: r e m p l a c e r
+GOLD: r e m p l a c e r
+
+SYS: d e v i n e
+GOLD: d e v i n e
+
+SYS: r é s o l v e
+GOLD: r é s o u t
+
+SYS: a n n o n c e n t
+GOLD: a n n o n c e n t
+
+SYS: f u m e r
+GOLD: f u m e r
+
+SYS: d é g a g e z
+GOLD: d é g a g e z
+
+SYS: d î n e r
+GOLD: d î n e r
+
+SYS: d é m é n a g e s
+GOLD: d é m é n a g e s
+
+SYS: i n s c r i s
+GOLD: i n s c r i s
+
+SYS: a c h è t e
+GOLD: a c h è t e
+
+SYS: n o u r r e n t
+GOLD: n o u r r i s s e n t
+
+SYS: s u c e
+GOLD: s u c e
+
+SYS: d é p e n s o n s
+GOLD: d é p e n s o n s
+
+SYS: v o t é
+GOLD: v o t é
+
+SYS: v o t e s
+GOLD: v o t e s
+
+SYS: a r r i v e n t
+GOLD: a r r i v e n t
+
+SYS: a m e n e z
+GOLD: a m e n e z
+
+SYS: a c h e v e z
+GOLD: a c h e v e z
+
+SYS: s e r t
+GOLD: s e r t
+
+SYS: s u r v e n i r
+GOLD: s u r v e n i r
+
+SYS: c o u r e n t
+GOLD: c o u r e n t
+
+SYS: é c r i s
+GOLD: é c r i s
+
+SYS: e n l è v e
+GOLD: e n l è v e
+
+SYS: e n s e i g n e
+GOLD: e n s e i g n e
+
+SYS: c o n c e r n e r
+GOLD: c o n c e r n e r
+
+SYS: s e c o u e r
+GOLD: s e c o u e r
+
+SYS: s u i v e z
+GOLD: s u i v e z
+
+SYS: é l e v o n s
+GOLD: é l e v o n s
+
+SYS: t é l é p h o n e
+GOLD: t é l é p h o n e
+
+SYS: s é j o u r n a n t
+GOLD: s é j o u r n a n t
+
+SYS: c o n t i n u e
+GOLD: c o n t i n u e
+
+SYS: p l a ç a n t
+GOLD: p l a ç a n t
+
+SYS: m e s u r e n t
+GOLD: m e s u r e n t
+
+SYS: e m p l o i e r
+GOLD: e m p l o y e r
+
+SYS: d é c o u r a g e
+GOLD: d é c o u r a g e
+
+SYS: c o n d u i s a n t
+GOLD: c o n d u i s a n t
+
+SYS: c o n c e v o n i r
+GOLD: c o n c e v o i r
+
+SYS: c u l p a b i l l e r
+GOLD: c u l p a b i l i s e r
+
+SYS: o b t i e n s
+GOLD: o b t i e n s
+
+SYS: r é p o n d e n t
+GOLD: r é p o n d e n t
+
+SYS: s i g n a l o n s
+GOLD: s i g n a l o n s
+
+SYS: p r e n e z
+GOLD: p r e n e z
+
+SYS: e x p l o r e
+GOLD: e x p l o r e
+
+SYS: d é m é n a g e r
+GOLD: d é m é n a g e r
+
+SYS: b l â m e n t
+GOLD: b l â m e n t
+
+SYS: é l e v e
+GOLD: é l è v e
+
+SYS: é t o n n e
+GOLD: é t o n n e
+
+SYS: r e p o s e z
+GOLD: r e p o s e z
+
+SYS: b a v a r d a n t
+GOLD: b a v a r d a n t
+
+SYS: i n t r o d u i t
+GOLD: i n t r o d u i t
+
+SYS: s u r v i e n s
+GOLD: s u r v i e n s
+
+SYS: e n t r e n s
+GOLD: e n t e n d s
+
+SYS: p r o m e t t o n s
+GOLD: p r o m e t t o n s
+
+SYS: c u e i l l é
+GOLD: c u e i l l i
+
+SYS: n o t é
+GOLD: n o t é
+
+SYS: g a r d e
+GOLD: g a r d e
+
+SYS: i n q u i e t
+GOLD: i n q u i è t e
+
+SYS: a g i t
+GOLD: a g i t
+
+SYS: r e p r o d u i s
+GOLD: r e p r o d u i s
+
+SYS: v u
+GOLD: v é c u
+
+SYS: é c r i v a n t
+GOLD: é c r i v a n t
+
+SYS: o b l i g e s
+GOLD: o b l i g e s
+

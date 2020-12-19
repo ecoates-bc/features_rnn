@@ -1,0 +1,2661 @@
+SYS: t ɥ e
+GOLD: t ɥ e
+
+SYS: e k ʁ i
+GOLD: e k ʁ i
+
+SYS: ɑ̃ m ɛ n
+GOLD: ɑ̃ m ɛ n
+
+SYS: ɛ̃ t ʁ ɔ d ɥ i z
+GOLD: ɛ̃ t ʁ ɔ d ɥ i z
+
+SYS: p a ʁ l
+GOLD: p a ʁ l
+
+SYS: m ɔ ʁ ɑ̃
+GOLD: m u ʁ ɑ̃
+
+SYS: a p a ʁ t ə n i ʁ
+GOLD: a p a ʁ t ə n i ʁ
+
+SYS: d e p ɑ̃ s e
+GOLD: d e p ɑ̃ s e
+
+SYS: t u s
+GOLD: t u s
+
+SYS: ɛ k s k y z
+GOLD: ɛ k s k y z
+
+SYS: s w ɛ t ɔ̃
+GOLD: s w ɛ t ɔ̃
+
+SYS: e s ɛ j ɑ̃
+GOLD: e s ɛ j ɑ̃
+
+SYS: ʁ a p l e
+GOLD: ʁ a p l e
+
+SYS: p ɔ s e d e
+GOLD: p ɔ s e d e
+
+SYS: d ə v i n ɔ̃
+GOLD: d ə v i n ɔ̃
+
+SYS: a ʃ t e
+GOLD: a ʃ t e
+
+SYS: s ə k u ʁ i ʁ
+GOLD: s ə k u ʁ i ʁ
+
+SYS: b ɑ t i s
+GOLD: b ɑ t i s
+
+SYS: ʁ ɑ̃ t ʁ e
+GOLD: ʁ ɑ̃ t ʁ e
+
+SYS: a m y z
+GOLD: a m y z
+
+SYS: ɑ̃ v w a j ɔ
+GOLD: ɑ̃ v w a j ɔ
+
+SYS: a d m ɛ
+GOLD: a d m ɛ
+
+SYS: l ɑ̃ s
+GOLD: l ɑ̃ s
+
+SYS: ɔ b e i s ɔ̃
+GOLD: ɔ b e i s ɔ̃
+
+SYS: ɛ̃ k j ɛ t
+GOLD: ɛ̃ k j ɛ t
+
+SYS: t ɔ̃ b e
+GOLD: t ɔ̃ b e
+
+SYS: s ə k w e
+GOLD: s ə k w e
+
+SYS: m ɔ k ɔ̃
+GOLD: m ɔ k ɔ̃
+
+SYS: f ɥ i s ɑ̃
+GOLD: f ɥ i j ɑ̃
+
+SYS: k ɔ̃ v ɛ k ɑ
+GOLD: k ɔ̃ v ɛ k ɑ
+
+SYS: p a ʁ t i s i p ɔ̃
+GOLD: p a ʁ t i s i p ɔ̃
+
+SYS: d e s i d
+GOLD: d e s i d
+
+SYS: ɛ̃ v ɑ t ɔ
+GOLD: ɛ̃ v ɑ t ɔ
+
+SYS: k ɔ̃ t ʁ ə v ə n i ʁ
+GOLD: k ɔ̃ t ʁ ə v ə n i ʁ
+
+SYS: ɑ̃ t ʁ ɛ n
+GOLD: ɑ̃ t ʁ ɛ n
+
+SYS: k ɔ ʁ ɛ s p ɔ̃ d ɑ
+GOLD: k ɔ ʁ ɛ s p ɔ̃ d ɑ
+
+SYS: ɑ̃ d ɥ i z e
+GOLD: ɑ̃ d ɥ i z e
+
+SYS: ɑ̃ n ɥ i
+GOLD: ɑ̃ n ɥ i
+
+SYS: l ɑ̃ s e
+GOLD: l ɑ̃ s e
+
+SYS: ɑ̃ p ɛ ʃ
+GOLD: ɑ̃ p ɛ ʃ
+
+SYS: p l ɛ̃
+GOLD: p l ɛ̃
+
+SYS: ʁ e p a ʁ e
+GOLD: ʁ e p a ʁ e
+
+SYS: d e m e n a ʒ e
+GOLD: d e m e n a ʒ e
+
+SYS: v i v y
+GOLD: v e k y
+
+SYS: ʁ ɑ̃ t ʁ
+GOLD: ʁ ɑ̃ t ʁ
+
+SYS: ʁ ə k ɔ̃ d ɥ i
+GOLD: ʁ ə k ɔ̃ d ɥ i
+
+SYS: ɔ f ʁ
+GOLD: ɔ f ʁ
+
+SYS: ʁ ə s ɑ̃
+GOLD: ʁ ə s ɑ̃
+
+SYS: ʁ ɑ̃
+GOLD: ʁ ɑ̃
+
+SYS: ʁ ə k ɔ̃ s t ʁ ɥ i ʁ
+GOLD: ʁ ə k ɔ̃ s t ʁ ɥ i ʁ
+
+SYS: a s i s t e
+GOLD: a s i s t e
+
+SYS: k l a k s ɔ n ɑ̃
+GOLD: k l a k s ɔ n ɑ̃
+
+SYS: ɛ k s p ʁ i m ɑ̃
+GOLD: ɛ k s p ʁ i m ɑ̃
+
+SYS: p l ɛ z ɑ̃ t
+GOLD: p l ɛ z ɑ̃ t
+
+SYS: d u b l e
+GOLD: d u b l e
+
+SYS: k ɔ̃ s ɛ ʁ n
+GOLD: k ɔ̃ s ɛ ʁ n
+
+SYS: d i s k y t e
+GOLD: d i s k y t e
+
+SYS: ɑ̃ n ɥ i j e
+GOLD: ɑ̃ n ɥ i j e
+
+SYS: a ʃ v e
+GOLD: a ʃ v e
+
+SYS: s e l e b ʁ e
+GOLD: s e l e b ʁ e
+
+SYS: l u
+GOLD: l u
+
+SYS: f i k s e
+GOLD: f i k s e
+
+SYS: m ɛ
+GOLD: m ɛ
+
+SYS: s e l e b ʁ ɔ̃
+GOLD: s e l e b ʁ ɔ̃
+
+SYS: d e s ɑ̃ d ɑ
+GOLD: d e s ɑ̃ d ɑ
+
+SYS: d e t n i
+GOLD: d e t n y
+
+SYS: d e k ʁ i
+GOLD: d e k ʁ i
+
+SYS: s y ɡ ʒ e ʁ ɑ̃
+GOLD: s y ɡ ʒ e ʁ ɑ̃
+
+SYS: a b i t
+GOLD: a b i t
+
+SYS: k ɔ̃ p l ɛ t
+GOLD: k ɔ̃ p l ɛ t
+
+SYS: p ʁ i j
+GOLD: p ʁ i
+
+SYS: ʃ y ʃ ɔ t e
+GOLD: ʃ y ʃ ɔ t e
+
+SYS: a k e ʁ i s e
+GOLD: a k e ʁ e
+
+SYS: ɑ̃ t ɛ ʁ
+GOLD: ɑ̃ t ɛ ʁ
+
+SYS: d i v ɔ ʁ s ɑ̃
+GOLD: d i v ɔ ʁ s ɑ̃
+
+SYS: k u ʃ
+GOLD: k u ʃ
+
+SYS: v i v ɑ̃
+GOLD: v i v ɑ̃
+
+SYS: ʁ ə p ʁ ə n ɑ̃
+GOLD: ʁ ə p ʁ ə n ɑ̃
+
+SYS: ɡ u t ɑ̃
+GOLD: ɡ u t ɑ̃
+
+SYS: ʁ ə p ʁ ɑ̃
+GOLD: ʁ ə p ʁ ɑ̃
+
+SYS: k ɥ i
+GOLD: k ɥ i
+
+SYS: ʒ w i s ɔ̃
+GOLD: ʒ w i s ɔ̃
+
+SYS: s i ɲ i f i
+GOLD: s i ɲ i f i
+
+SYS: s k i
+GOLD: s k i
+
+SYS: ɑ̃ t ʁ e
+GOLD: ɑ̃ t ʁ e
+
+SYS: ʁ ɑ̃ v w a j e
+GOLD: ʁ ɑ̃ v w a j e
+
+SYS: f ɔ̃ d e
+GOLD: f ɔ̃ d e
+
+SYS: p l ɔ̃ ʒ
+GOLD: p l ɔ̃ ʒ
+
+SYS: d e p ɛ ʃ e
+GOLD: d e p ɛ ʃ e
+
+SYS: ɡ a ɲ e
+GOLD: ɡ a ɲ e
+
+SYS: d u t
+GOLD: d u t
+
+SYS: s ɔ̃ ʒ e
+GOLD: s ɔ̃ ʒ e
+
+SYS: k ʁ ɔ̃
+GOLD: k ʁ w a j ɔ̃
+
+SYS: a b a
+GOLD: a b a
+
+SYS: v ə n ɔ̃
+GOLD: v ə n ɔ̃
+
+SYS: f ʁ a p e
+GOLD: f ʁ a p e
+
+SYS: d e p ɑ̃ d ɑ
+GOLD: d e p ɑ̃ d ɑ
+
+SYS: s a t i s p ɛ z e
+GOLD: s a t i s f ɛ t
+
+SYS: d i n
+GOLD: d i n
+
+SYS: d e ʒ œ n
+GOLD: d e ʒ œ n
+
+SYS: ʁ ə n u v l e
+GOLD: ʁ ə n u v l e
+
+SYS: t ʁ a d ɥ i
+GOLD: t ʁ a d ɥ i
+
+SYS: p a s ɑ̃
+GOLD: p a s ɑ̃
+
+SYS: ʁ ə k ɔ̃ s t ʁ ɥ i
+GOLD: ʁ ə k ɔ̃ s t ʁ ɥ i
+
+SYS: p a s e
+GOLD: p a s e
+
+SYS: a k œ j ɔ̃
+GOLD: a k œ j ɔ̃
+
+SYS: b l ɑ̃ ʃ i s ɔ
+GOLD: b l ɑ̃ ʃ i s ɔ
+
+SYS: a k ɔ ʁ d ɑ̃
+GOLD: a k ɔ ʁ d ɑ̃
+
+SYS: ʁ ɛ v ɑ̃
+GOLD: ʁ ɛ v ɑ̃
+
+SYS: a m y z
+GOLD: a m y z
+
+SYS: v ɑ
+GOLD: v ɛ
+
+SYS: t ʁ a v a j
+GOLD: t ʁ a v a j
+
+SYS: p ʁ e z ɑ̃ t
+GOLD: p ʁ e z ɑ̃ t
+
+SYS: e k ʁ i
+GOLD: e k ʁ i
+
+SYS: ʁ a s y ʁ
+GOLD: ʁ a s y ʁ
+
+SYS: ɛ̃ t e ʁ ɛ s
+GOLD: ɛ̃ t e ʁ ɛ s
+
+SYS: t i ʁ e
+GOLD: t i ʁ e
+
+SYS: k a ʃ e
+GOLD: k a ʃ e
+
+SYS: p ʁ e z ɑ̃ t e
+GOLD: p ʁ e z ɑ̃ t e
+
+SYS: ɑ̃ d ɔ ʁ m e
+GOLD: ɑ̃ d ɔ ʁ m e
+
+SYS: ɛ s p e ʁ ɑ̃
+GOLD: ɛ s p e ʁ ɑ̃
+
+SYS: a k s ɛ p t ɑ̃
+GOLD: a k s ɛ p t ɑ̃
+
+SYS: ɑ̃ p ʁ œ t ɑ
+GOLD: ɑ̃ p ʁ œ t ɑ
+
+SYS: y n i s ɔ̃
+GOLD: y n i s ɔ̃
+
+SYS: a ʁ ɛ t e
+GOLD: a ʁ ɛ t e
+
+SYS: a ʁ a ʃ e
+GOLD: a ʁ a ʃ e
+
+SYS: p a ʁ d ɔ n e
+GOLD: p a ʁ d ɔ n e
+
+SYS: ɛ ɡ z a ʒ ɛ ʁ
+GOLD: ɛ ɡ z a ʒ ɛ ʁ
+
+SYS: p ʁ ɔ n ɔ̃ s
+GOLD: p ʁ ɔ n ɔ̃ s
+
+SYS: a p ʁ ɔ ʃ e
+GOLD: a p ʁ ɔ ʃ e
+
+SYS: n ɔ m e
+GOLD: n ɔ m e
+
+SYS: ʃ y ʃ ɔ t
+GOLD: ʃ y ʃ ɔ t
+
+SYS: d u b l ɔ̃
+GOLD: d u b l ɔ̃
+
+SYS: v i z i t
+GOLD: v i z i t
+
+SYS: b a l ɑ̃ s ɔ
+GOLD: b a l ɑ̃ s ɔ
+
+SYS: t ɑ̃ d
+GOLD: t ɑ̃ d
+
+SYS: k ʁ y
+GOLD: k ʁ w a
+
+SYS: d e f ɛ z ɑ̃
+GOLD: d e f z ɑ̃
+
+SYS: a k s ɛ p t
+GOLD: a k s ɛ p t
+
+SYS: k ʁ e ɑ̃
+GOLD: k ʁ e ɑ̃
+
+SYS: d e p l ɛ z ɔ̃
+GOLD: d e p l ɛ z ɔ̃
+
+SYS: s ɛ z i
+GOLD: s ɛ z i
+
+SYS: s o v
+GOLD: s o v
+
+SYS: ɛ̃ k j ɛ t
+GOLD: ɛ̃ k j ɛ t
+
+SYS: a t ɛ̃ d ʁ
+GOLD: a t ɛ̃ d ʁ
+
+SYS: ʁ ɑ̃ t ʁ e
+GOLD: ʁ ɑ̃ t ʁ e
+
+SYS: ʁ ə s ɑ̃ b
+GOLD: ʁ ə s ɑ̃ b l
+
+SYS: s a l i
+GOLD: s a l i
+
+SYS: k ɔ̃ t ʁ ɛ d ʁ
+GOLD: k ɔ̃ t ʁ ɛ d ʁ
+
+SYS: v ɛ ʁ s
+GOLD: v ɛ ʁ s
+
+SYS: n a ʒ e
+GOLD: n a ʒ e
+
+SYS: ɑ̃ n ɥ i
+GOLD: ɑ̃ n ɥ i
+
+SYS: s y b i
+GOLD: s y b i
+
+SYS: k i t e
+GOLD: k i t e
+
+SYS: l ɔ ʒ ɑ̃
+GOLD: l ɔ ʒ ɑ̃
+
+SYS: f ɔ̃ d ʁ
+GOLD: f ɔ̃ d ʁ
+
+SYS: p a ʁ v j ɛ̃
+GOLD: p a ʁ v j ɛ̃
+
+SYS: d e z ɔ b e i
+GOLD: d e z ɔ b e i
+
+SYS: p a ʁ t a ʒ ɑ̃
+GOLD: p a ʁ t a ʒ ɑ̃
+
+SYS: s i f l e
+GOLD: s i f l e
+
+SYS: k ɔ̃ t ʁ o l e
+GOLD: k ɔ̃ t ʁ o l e
+
+SYS: ɑ̃ p ʁ œ t
+GOLD: ɑ̃ p ʁ œ t
+
+SYS: p a ʁ d ɔ n e
+GOLD: p a ʁ d ɔ n e
+
+SYS: t ʁ a v a j e
+GOLD: t ʁ a v a j e
+
+SYS: e t ɛ̃ d ʁ
+GOLD: e t ɛ̃ d ʁ
+
+SYS: ʁ ə n u v l
+GOLD: ʁ ə n u v e l
+
+SYS: f e l i s i t ɔ̃
+GOLD: f e l i s i t ɔ̃
+
+SYS: t ʁ ɑ̃ s m ɛ
+GOLD: t ʁ ɑ̃ s m ɛ
+
+SYS: ʁ ə f ɛ z e
+GOLD: ʁ ə f ɛ t
+
+SYS: ʁ ə k ɔ̃ s t ʁ ɥ i z
+GOLD: ʁ ə k ɔ̃ s t ʁ ɥ i z
+
+SYS: ʁ ə l ɛ v
+GOLD: ʁ ə l ɛ v
+
+SYS: k i t
+GOLD: k i t
+
+SYS: d e p ɑ̃ d e
+GOLD: d e p ɑ̃ d e
+
+SYS: ɑ̃ t ʁ ɛ n
+GOLD: ɑ̃ t ʁ ɛ n
+
+SYS: k ɔ m ɑ̃ d
+GOLD: k ɔ m ɑ̃ d
+
+SYS: m a ʁ ʃ ɔ̃
+GOLD: m a ʁ ʃ ɔ̃
+
+SYS: n ɛ t w a
+GOLD: n ɛ t w a
+
+SYS: s ɔ ʁ t i
+GOLD: s ɔ ʁ t i
+
+SYS: ʁ ə m ɛ t ɔ̃
+GOLD: ʁ ə m ɛ t ɔ̃
+
+SYS: s y p ɔ ʁ t ɔ̃
+GOLD: s y p ɔ ʁ t ɔ̃
+
+SYS: l a v e
+GOLD: l a v e
+
+SYS: k ɔ̃ t i n ɥ e
+GOLD: k ɔ̃ t i n ɥ e
+
+SYS: ɑ̃ t ʁ ɔ
+GOLD: ɑ̃ t ʁ ɔ
+
+SYS: d ɔ ʁ m e
+GOLD: d ɔ ʁ m e
+
+SYS: a l e
+GOLD: a l e
+
+SYS: ʃ ɑ̃ ʒ ɔ
+GOLD: ʃ ɑ̃ ʒ ɔ
+
+SYS: ʒ o n i s ɑ̃
+GOLD: ʒ o n i s ɑ̃
+
+SYS: p ɛ ʁ
+GOLD: p ɛ ʁ
+
+SYS: a n ɔ̃ s e
+GOLD: a n ɔ̃ s e
+
+SYS: ɑ̃ f ɥ i s ɔ
+GOLD: ɑ̃ f ɥ i j ɔ
+
+SYS: k ɔ l
+GOLD: k ɔ l
+
+SYS: p o z e
+GOLD: p o z e
+
+SYS: ʁ ə k œ j ɔ̃
+GOLD: ʁ ə k œ j ɔ̃
+
+SYS: a t ɛ̃
+GOLD: a t ɛ̃
+
+SYS: p ɔ s e d ɑ̃
+GOLD: p ɔ s e d ɑ̃
+
+SYS: p ʁ ɔ m ɛ s
+GOLD: p ʁ ɔ m ɛ t
+
+SYS: d i ʁ i ʒ
+GOLD: d i ʁ i ʒ
+
+SYS: k ɔ̃ s ə v ɑ
+GOLD: k ɔ̃ s v ɑ
+
+SYS: p l ɛ ɲ ɑ̃
+GOLD: p l ɛ ɲ ɑ̃
+
+SYS: d e v l ɔ p
+GOLD: d e v l ɔ p
+
+SYS: ɛ d
+GOLD: ɛ d
+
+SYS: p l ɑ̃ t
+GOLD: p l ɑ̃ t
+
+SYS: ʃ a s
+GOLD: ʃ a s
+
+SYS: ʁ e y s i
+GOLD: ʁ e y s i
+
+SYS: n ɔ m
+GOLD: n ɔ m
+
+SYS: ʁ ə m ɛ ʁ s i
+GOLD: ʁ ə m ɛ ʁ s i
+
+SYS: ɑ̃ f ɥ i
+GOLD: ɑ̃ f ɥ i
+
+SYS: a k œ j
+GOLD: a k œ j
+
+SYS: ɛ k s p l ɔ ʁ e
+GOLD: ɛ k s p l ɔ ʁ e
+
+SYS: p l ɛ ɲ e
+GOLD: p l ɛ ɲ e
+
+SYS: ʁ ə k u ʁ i ʁ
+GOLD: ʁ ə k u ʁ i ʁ
+
+SYS: ɡ ʁ ɑ̃ d i s e
+GOLD: ɡ ʁ ɑ̃ d i s e
+
+SYS: ɔ b l i ʒ
+GOLD: ɔ b l i ʒ
+
+SYS: ɛ̃ t ɛ ʁ ɔ ʒ e
+GOLD: ɛ̃ t ɛ ʁ ɔ ʒ e
+
+SYS: ʁ ə d i ʁ
+GOLD: ʁ ə d i ʁ
+
+SYS: b l ɛ s
+GOLD: b l ɛ s
+
+SYS: d u t e
+GOLD: d u t e
+
+SYS: p ɛ ʁ s ɥ a d e
+GOLD: p ɛ ʁ s ɥ a d e
+
+SYS: k u ʁ i ʁ
+GOLD: k u ʁ i ʁ
+
+SYS: ʒ e ʁ e
+GOLD: ʒ e ʁ e
+
+SYS: a ʁ m
+GOLD: a ʁ m
+
+SYS: ʁ ə k ɔ n ɛ s
+GOLD: ʁ ə k ɔ n ɛ s
+
+SYS: ʁ ɛ s t
+GOLD: ʁ ɛ s t
+
+SYS: s e ʒ u ʁ n e
+GOLD: s e ʒ u ʁ n e
+
+SYS: ʁ a p l e
+GOLD: ʁ a p l e
+
+SYS: ʁ ə n u v l
+GOLD: ʁ ə n u v e l
+
+SYS: a ʒ i
+GOLD: a ʒ i
+
+SYS: ʁ ə s ɑ̃ t i ʁ
+GOLD: ʁ ə s ɑ̃ t i ʁ
+
+SYS: d i z e
+GOLD: d i t
+
+SYS: a p ʁ u v ɔ̃
+GOLD: a p ʁ u v ɔ̃
+
+SYS: ʁ ə m ɛ ʁ s j e
+GOLD: ʁ ə m ɛ ʁ s j e
+
+SYS: p y
+GOLD: p y
+
+SYS: a v e
+GOLD: a v e
+
+SYS: ʒ ə l e
+GOLD: ʒ ə l e
+
+SYS: p ʁ ɔ d ɥ i ʁ
+GOLD: p ʁ ɔ d ɥ i ʁ
+
+SYS: k ɔ̃ t n e
+GOLD: k ɔ̃ t n e
+
+SYS: l i
+GOLD: l y
+
+SYS: ʁ e f l e ʃ i s e
+GOLD: ʁ e f l e ʃ i s e
+
+SYS: v w a j a ʒ
+GOLD: v w a j a ʒ
+
+SYS: m e l ɑ̃ ʒ e
+GOLD: m e l ɑ̃ ʒ e
+
+SYS: n e ɡ ɔ s j e
+GOLD: n e ɡ ɔ s j e
+
+SYS: b l ɑ̃ ʃ i s
+GOLD: b l ɑ̃ ʃ i s
+
+SYS: a f ɛ b l i
+GOLD: a f ɛ b l i
+
+SYS: p l œ ʁ e
+GOLD: p l œ ʁ e
+
+SYS: ʁ ə v j ɛ n
+GOLD: ʁ ə v j ɛ n
+
+SYS: f i k s
+GOLD: f i k s
+
+SYS: ɑ̃ s ɛ ɲ e
+GOLD: ɑ̃ s ɛ ɲ e
+
+SYS: ʁ ə t ʁ u v
+GOLD: ʁ ə t ʁ u v
+
+SYS: p ʁ ɔ d ɥ i z
+GOLD: p ʁ ɔ d ɥ i z
+
+SYS: ʁ ɑ̃ ʒ ɔ
+GOLD: ʁ ɑ̃ ʒ ɔ
+
+SYS: p u
+GOLD: p y
+
+SYS: ɛ̃ t ɛ ʁ d i
+GOLD: ɛ̃ t ɛ ʁ d i
+
+SYS: ʁ ə t u ʁ n e
+GOLD: ʁ ə t u ʁ n e
+
+SYS: d e z i ʁ e
+GOLD: d e z i ʁ e
+
+SYS: f ɥ i
+GOLD: f ɥ i
+
+SYS: k ɔ̃ k j ɛ ʁ
+GOLD: k ɔ̃ k j ɛ ʁ
+
+SYS: a ɡ a s
+GOLD: a ɡ a s
+
+SYS: v i z i t
+GOLD: v i z i t
+
+SYS: k ɑ s ɑ̃
+GOLD: k ɑ s ɑ̃
+
+SYS: k ʁ y j e
+GOLD: k ʁ w a j e
+
+SYS: m ɔ̃ t
+GOLD: m ɔ̃ t
+
+SYS: a p ʁ ɛ n
+GOLD: a p ʁ ɛ n
+
+SYS: e ɡ ɛ j ɔ̃
+GOLD: e ɡ ɛ j ɔ̃
+
+SYS: l ɛ s e
+GOLD: l ɛ s e
+
+SYS: ʁ ə v j ɛ̃
+GOLD: ʁ ə v j ɛ̃
+
+SYS: d ə m œ ʁ e
+GOLD: d ə m œ ʁ e
+
+SYS: s w ɛ t
+GOLD: s w ɛ t
+
+SYS: ɡ a s p i j e
+GOLD: ɡ a s p i j e
+
+SYS: ʁ u ʒ i
+GOLD: ʁ u ʒ i
+
+SYS: i ɲ ɔ ʁ e
+GOLD: i ɲ ɔ ʁ e
+
+SYS: a k j ɛ ʁ
+GOLD: a k j ɛ ʁ
+
+SYS: s y b v j ɛ̃
+GOLD: s y b v j ɛ̃
+
+SYS: ʁ ə s ɑ̃ b e
+GOLD: ʁ ə s ɑ̃ b l e
+
+SYS: e p u z
+GOLD: e p u z
+
+SYS: ʁ ə p ʁ e z ɑ̃ t ɔ
+GOLD: ʁ ə p ʁ e z ɑ̃ t ɔ
+
+SYS: s y b v j ɛ̃
+GOLD: s y b v j ɛ̃
+
+SYS: k ɔ̃ t ʁ ə v j ɛ n
+GOLD: k ɔ̃ t ʁ ə v j ɛ n
+
+SYS: k o z e
+GOLD: k o z e
+
+SYS: d ə v j ɛ n
+GOLD: d ə v j ɛ n
+
+SYS: m ə z y ʁ ɑ̃
+GOLD: m ə z y ʁ ɑ̃
+
+SYS: k ɔ̃ s t ʁ ɥ i ʁ
+GOLD: k ɔ̃ s t ʁ ɥ i ʁ
+
+SYS: ɛ̃ v i t ɔ
+GOLD: ɛ̃ v i t ɔ
+
+SYS: d e z ɔ b e i
+GOLD: d e z ɔ b e i
+
+SYS: v i z i t
+GOLD: v i z i t
+
+SYS: p ʁ ɔ t ɛ ʒ
+GOLD: p ʁ ɔ t ɛ ʒ
+
+SYS: p l ɑ̃ t
+GOLD: p l ɑ̃ t
+
+SYS: ɑ̃ d ɔ ʁ
+GOLD: ɑ̃ d ɔ ʁ
+
+SYS: ʁ ə t ə n y
+GOLD: ʁ ə t ə n y
+
+SYS: s ɔ ʁ
+GOLD: s ɔ ʁ
+
+SYS: p ɑ̃ d y
+GOLD: p ɑ̃ d y
+
+SYS: p ʁ ɔ m ɛ t ɑ̃
+GOLD: p ʁ ɔ m ɛ t ɑ̃
+
+SYS: a n ɔ̃ s ɔ
+GOLD: a n ɔ̃ s ɔ
+
+SYS: ʁ ə k œ j i
+GOLD: ʁ ə k œ j i
+
+SYS: ʒ u
+GOLD: ʒ u
+
+SYS: u b l i j e
+GOLD: u b l i j e
+
+SYS: ɛ̃ p ɔ ʁ t
+GOLD: ɛ̃ p ɔ ʁ t
+
+SYS: s ɔ n ɔ̃
+GOLD: s ɔ n ɔ̃
+
+SYS: a s i s t e
+GOLD: a s i s t e
+
+SYS: ɑ̃ ʁ ʒ i s t ʁ
+GOLD: ɑ̃ ʁ ʒ i s t ʁ
+
+SYS: d i n ɔ̃
+GOLD: d i n ɔ̃
+
+SYS: a ʒ i s
+GOLD: a ʒ i s
+
+SYS: k y l p a b i z
+GOLD: k y l p a b i l i z
+
+SYS: ɛ ɡ z a ʒ e ʁ ɔ̃
+GOLD: ɛ ɡ z a ʒ e ʁ ɔ̃
+
+SYS: ɛ k s p ʁ i m e
+GOLD: ɛ k s p ʁ i m e
+
+SYS: ʁ ə s w a
+GOLD: ʁ ə s w a
+
+SYS: ʁ ə v ə n e
+GOLD: ʁ ə v ə n e
+
+SYS: s e s e
+GOLD: s e s e
+
+SYS: d u b l
+GOLD: d u b l
+
+SYS: ʁ ə s ɑ̃ b e
+GOLD: ʁ ə s ɑ̃ b l e
+
+SYS: ɛ̃ k j e t e
+GOLD: ɛ̃ k j e t e
+
+SYS: a b a
+GOLD: a b a
+
+SYS: ɡ ʁ a t e
+GOLD: ɡ ʁ a t e
+
+SYS: a p ɔ ʁ t e
+GOLD: a p ɔ ʁ t e
+
+SYS: b w a ʁ
+GOLD: b w a ʁ
+
+SYS: ɛ̃ d i k e
+GOLD: ɛ̃ d i k e
+
+SYS: p ɛ ʁ s ɥ a d ɔ̃
+GOLD: p ɛ ʁ s ɥ a d ɔ̃
+
+SYS: ʁ ə l i
+GOLD: ʁ ə l y
+
+SYS: p a s ɔ̃
+GOLD: p a s ɔ̃
+
+SYS: n ɔ m ɔ̃
+GOLD: n ɔ m ɔ̃
+
+SYS: ʁ ə ʒ ɛ t
+GOLD: ʁ ə ʒ ɛ t
+
+SYS: v w a j a ʒ
+GOLD: v w a j a ʒ
+
+SYS: m ɔ k e
+GOLD: m ɔ k e
+
+SYS: ɛ̃ t ɛ ʁ d i z ɔ
+GOLD: ɛ̃ t ɛ ʁ d i z ɔ
+
+SYS: v j ɛ j i ʁ
+GOLD: v j ɛ j i ʁ
+
+SYS: ʁ ɑ̃ v w a j ɔ
+GOLD: ʁ ɑ̃ v w a j ɔ
+
+SYS: e ʃ w e
+GOLD: e ʃ w e
+
+SYS: s e d e
+GOLD: s e d e
+
+SYS: ɛ ɡ z a ʒ e ʁ e
+GOLD: ɛ ɡ z a ʒ e ʁ e
+
+SYS: ɑ̃ t ɑ d
+GOLD: ɑ̃ t ɑ d
+
+SYS: k ɔ̃ k e ʁ i
+GOLD: k ɔ̃ k i
+
+SYS: v u l a j e
+GOLD: v u l e
+
+SYS: p ɛ j e
+GOLD: p ɛ j e
+
+SYS: ʃ y ʃ ɔ t ɑ̃
+GOLD: ʃ y ʃ ɔ t ɑ̃
+
+SYS: p a ʁ l
+GOLD: p a ʁ l
+
+SYS: s y ɡ ʒ e ʁ e
+GOLD: s y ɡ ʒ e ʁ e
+
+SYS: ɑ̃ ɡ a ʒ
+GOLD: ɑ̃ ɡ a ʒ
+
+SYS: ɡ ʁ ɑ̃ d i
+GOLD: ɡ ʁ ɑ̃ d i
+
+SYS: v w a
+GOLD: v w a
+
+SYS: k ɑ s e
+GOLD: k ɑ s e
+
+SYS: s y b i s e
+GOLD: s y b i s e
+
+SYS: e k u t
+GOLD: e k u t
+
+SYS: l a v ɑ̃
+GOLD: l a v ɑ̃
+
+SYS: ʁ e z u
+GOLD: ʁ e z u
+
+SYS: d e p ɑ̃ s
+GOLD: d e p ɑ̃ s
+
+SYS: k ɔ̃ t j ɛ
+GOLD: k ɔ̃ t j ɛ
+
+SYS: ʒ e ʁ ɑ̃
+GOLD: ʒ e ʁ ɑ̃
+
+SYS: s ɛ z i
+GOLD: s ɛ z i
+
+SYS: d i ʁ i ʒ e
+GOLD: d i ʁ i ʒ e
+
+SYS: k ɔ̃ v ɛ k y
+GOLD: k ɔ̃ v ɛ k y
+
+SYS: e s s a i e s
+GOLD: e s s a i e n t
+
+SYS: b ʁ i z e
+GOLD: b ʁ i z e
+
+SYS: ʁ e d i ʒ e
+GOLD: ʁ e d i ʒ e
+
+SYS: k ɔ̃ t ʁ ɛ ɲ e
+GOLD: k ɔ̃ t ʁ ɛ ɲ e
+
+SYS: n e ɡ ɔ s i
+GOLD: n e ɡ ɔ s i
+
+SYS: l w ɑ̃
+GOLD: l w ɑ̃
+
+SYS: d e k u ʁ a ʒ e
+GOLD: d e k u ʁ a ʒ e
+
+SYS: b a v a ʁ d
+GOLD: b a v a ʁ d
+
+SYS: d ɔ n e
+GOLD: d ɔ n e
+
+SYS: a ʒ i s ɔ̃
+GOLD: a ʒ i s ɔ̃
+
+SYS: p ɛ ʃ
+GOLD: p ɛ ʃ
+
+SYS: a t i ʁ e
+GOLD: a t i ʁ e
+
+SYS: t ʁ ɛ t e
+GOLD: t ʁ ɛ t e
+
+SYS: n ɛ t w a
+GOLD: n ɛ t w a
+
+SYS: m a ʁ ʃ ɑ̃
+GOLD: m a ʁ ʃ ɑ̃
+
+SYS: s y ʁ v i v i
+GOLD: s y ʁ v e k y
+
+SYS: m e l ɑ̃ ʒ
+GOLD: m e l ɑ̃ ʒ
+
+SYS: p e n e t ʁ e
+GOLD: p e n e t ʁ e
+
+SYS: ʁ e y s i s ɔ̃
+GOLD: ʁ e y s i s ɔ̃
+
+SYS: k ɔ̃ s i d e ʁ e
+GOLD: k ɔ̃ s i d e ʁ e
+
+SYS: p ʁ e z ɑ̃ t ɔ
+GOLD: p ʁ e z ɑ̃ t ɔ
+
+SYS: b u
+GOLD: b u
+
+SYS: t ɛ ʁ m i n
+GOLD: t ɛ ʁ m i n
+
+SYS: s ɛ s
+GOLD: s ɛ s
+
+SYS: k ɔ̃ k l y ɑ
+GOLD: k ɔ̃ k l y ɑ
+
+SYS: d e f ɑ̃
+GOLD: d e f ɑ̃ d y
+
+SYS: k ʁ i j e
+GOLD: k ʁ i j e
+
+SYS: e t ɛ̃
+GOLD: e t ɛ̃
+
+SYS: e t ɛ ɲ
+GOLD: e t ɛ ɲ
+
+SYS: ɛ̃ t ɛ ʁ d i s
+GOLD: ɛ̃ t ɛ ʁ d i z
+
+SYS: p ɛ ʃ e
+GOLD: p ɛ ʃ e
+
+SYS: p ʁ ɔ n ɔ̃ s
+GOLD: p ʁ ɔ n ɔ̃ s
+
+SYS: d i s ɔ l y
+GOLD: d i s u
+
+SYS: v e ʁ i f j ɔ̃
+GOLD: v e ʁ i f j ɔ̃
+
+SYS: b u j i ʁ
+GOLD: b u j i ʁ
+
+SYS: a k ɔ̃ p a ɲ ɑ
+GOLD: a k ɔ̃ p a ɲ ɑ
+
+SYS: p ɑ̃ d e
+GOLD: p ɑ̃ d e
+
+SYS: e s ɥ i j e
+GOLD: e s ɥ i j e
+
+SYS: k ɔ m ɑ̃ d
+GOLD: k ɔ m ɑ̃ d
+
+SYS: b l ɑ m e
+GOLD: b l ɑ m e
+
+SYS: p ɛ ʁ m ɛ t ʁ
+GOLD: p ɛ ʁ m ɛ t ʁ
+
+SYS: a p ʁ u v
+GOLD: a p ʁ u v
+
+SYS: ʒ o n i
+GOLD: ʒ o n i
+
+SYS: a v ɑ̃ t y ʁ ɔ
+GOLD: a v ɑ̃ t y ʁ ɔ
+
+SYS: ʁ ə k u ʁ
+GOLD: ʁ ə k u ʁ
+
+SYS: d e t u ʁ n e
+GOLD: d e t u ʁ n e
+
+SYS: s e d ɥ i z ɔ̃
+GOLD: s e d ɥ i z ɔ̃
+
+SYS: f ɔ̃ d e
+GOLD: f ɔ̃ d e
+
+SYS: ɑ̃ t ʁ ɛ n e
+GOLD: ɑ̃ t ʁ ɛ n e
+
+SYS: ʃ a ʁ ʒ e
+GOLD: ʃ a ʁ ʒ e
+
+SYS: k ʁ i
+GOLD: k ʁ i
+
+SYS: t ʁ a s ɔ̃
+GOLD: t ʁ a s ɔ̃
+
+SYS: ɡ a ʁ d e
+GOLD: ɡ a ʁ d e
+
+SYS: s u s k ʁ i
+GOLD: s u s k ʁ i
+
+SYS: ɛ d e
+GOLD: e d e
+
+SYS: a p l e
+GOLD: a p l e
+
+SYS: v ɑ̃ ʒ ɑ
+GOLD: v ɑ̃ ʒ ɑ
+
+SYS: e t ɔ n
+GOLD: e t ɔ n
+
+SYS: ɑ̃ d ɔ ʁ m
+GOLD: ɑ̃ d ɔ ʁ m
+
+SYS: b a v a ʁ d
+GOLD: b a v a ʁ d
+
+SYS: d ɑ̃ s e
+GOLD: d ɑ̃ s e
+
+SYS: k ɔ̃ p ʁ ɛ ɲ
+GOLD: k ɔ̃ p ʁ ɛ n
+
+SYS: ʁ e z u
+GOLD: ʁ e z u
+
+SYS: ɛ̃ t ɛ ʁ v j ɛ
+GOLD: ɛ̃ t ɛ ʁ v j ɛ
+
+SYS: t ʁ a v ɛ ʁ s
+GOLD: t ʁ a v ɛ ʁ s
+
+SYS: k l a k s ɔ n e
+GOLD: k l a k s ɔ n e
+
+SYS: p ɛ ʁ m ɛ t ɔ̃
+GOLD: p ɛ ʁ m ɛ t ɔ̃
+
+SYS: p ʁ e f ɛ ʁ
+GOLD: p ʁ e f ɛ ʁ
+
+SYS: ɑ̃ t ʁ ɛ n ɔ
+GOLD: ɑ̃ t ʁ ɛ n ɔ
+
+SYS: k ɔ̃ s w a
+GOLD: k ɔ̃ s w a
+
+SYS: v ɑ̃ d ʁ
+GOLD: v ɑ̃ d ʁ
+
+SYS: ɡ ʁ a t
+GOLD: ɡ ʁ a t
+
+SYS: k ɔ m ɑ̃ d ɑ
+GOLD: k ɔ m ɑ̃ d ɑ
+
+SYS: a ʁ ɑ̃ ʒ e
+GOLD: a ʁ ɑ̃ ʒ e
+
+SYS: p u s ɔ̃
+GOLD: p u s ɔ̃
+
+SYS: m e ʁ i t
+GOLD: m e ʁ i t
+
+SYS: ʁ ə ʒ ə t e
+GOLD: ʁ ə ʒ ə t e
+
+SYS: u v ʁ
+GOLD: u v ʁ
+
+SYS: p ɥ ɑ̃
+GOLD: p ɥ ɑ̃
+
+SYS: ɔ b l i ʒ ɔ̃
+GOLD: ɔ b l i ʒ ɔ̃
+
+SYS: ɛ̃ f ɔ ʁ m
+GOLD: ɛ̃ f ɔ ʁ m
+
+SYS: k u p ɔ̃
+GOLD: k u p ɔ̃
+
+SYS: t ə n ɑ̃
+GOLD: t ə n ɑ̃
+
+SYS: b l ɑ̃ ʃ i s ɑ
+GOLD: b l ɑ̃ ʃ i s ɑ
+
+SYS: d e z ɔ b e i
+GOLD: d e z ɔ b e i
+
+SYS: ʁ e z ɔ l v ɔ̃
+GOLD: ʁ e z ɔ l v ɔ̃
+
+SYS: a ʃ ɛ t
+GOLD: a ʃ ɛ t
+
+SYS: s ɛ d
+GOLD: s ɛ d
+
+SYS: k ʁ y
+GOLD: k ʁ w a
+
+SYS: d i s p a ʁ ɛ s e
+GOLD: d i s p a ʁ ɛ s e
+
+SYS: s u s k ʁ i
+GOLD: s u s k ʁ i
+
+SYS: e ʃ a p
+GOLD: e ʃ a p
+
+SYS: b ʁ i z
+GOLD: b ʁ i z
+
+SYS: ʃ a s e
+GOLD: ʃ a s e
+
+SYS: ʁ ə ʒ ə t ɑ̃
+GOLD: ʁ ə ʒ ə t ɑ̃
+
+SYS: ʁ ə k u ʁ ɑ̃
+GOLD: ʁ ə k u ʁ ɑ̃
+
+SYS: k u t
+GOLD: k u t
+
+SYS: ʁ e f l e ʃ i s ɑ̃
+GOLD: ʁ e f l e ʃ i s ɑ̃
+
+SYS: b l ɛ s
+GOLD: b l ɛ s
+
+SYS: s i f l ɑ̃
+GOLD: s i f l ɑ̃
+
+SYS: p ʁ e v j ɛ
+GOLD: p ʁ e v j ɛ̃
+
+SYS: f ɛ
+GOLD: f ɛ
+
+SYS: ʁ ɑ̃ k ɔ t ʁ e
+GOLD: ʁ ɑ̃ k ɔ t ʁ e
+
+SYS: d i v ɔ ʁ s e
+GOLD: d i v ɔ ʁ s e
+
+SYS: k ʁ ɛ̃
+GOLD: k ʁ ɛ̃
+
+SYS: d e t j ɛ
+GOLD: d e t j ɛ̃
+
+SYS: e z i t e
+GOLD: e z i t e
+
+SYS: s y p o z e
+GOLD: s y p o z e
+
+SYS: e s ɥ i j e
+GOLD: e s ɥ i j e
+
+SYS: e p ɛ l
+GOLD: e p ɛ l
+
+SYS: d e m ɔ l i
+GOLD: d e m ɔ l i
+
+SYS: k ɔ̃ p a ʁ ɛ s e
+GOLD: k ɔ̃ p a ʁ ɛ s e
+
+SYS: a p s t j ɛ̃
+GOLD: a p s t j ɛ̃
+
+SYS: p u s
+GOLD: p u s
+
+SYS: s i f l
+GOLD: s i f l
+
+SYS: ɔ p t j ɛ̃
+GOLD: ɔ p t j ɛ̃
+
+SYS: l ɔ ʒ e
+GOLD: l ɔ ʒ e
+
+SYS: k ʁ y
+GOLD: k ʁ w a
+
+SYS: ʁ ə s ɑ̃ b a
+GOLD: ʁ ə s ɑ̃ b l
+
+SYS: d e s ɑ̃ d e
+GOLD: d e s ɑ̃ d e
+
+SYS: d e t ɛ s t e
+GOLD: d e t ɛ s t e
+
+SYS: ʁ ɑ̃ v w a
+GOLD: ʁ ɑ̃ v w a
+
+SYS: i ɲ ɔ ʁ
+GOLD: i ɲ ɔ ʁ
+
+SYS: k ɔ m ɑ̃ d e
+GOLD: k ɔ m ɑ̃ d e
+
+SYS: e s ɛ j e
+GOLD: e s ɛ j e
+
+SYS: k ɔ̃ t ʁ ə d i z e
+GOLD: k ɔ̃ t ʁ ə d i z e
+
+SYS: k ɔ̃ p a ʁ ɛ
+GOLD: k ɔ̃ p a ʁ ɛ
+
+SYS: m ə n a s e
+GOLD: m ə n a s e
+
+SYS: t u ʁ n e
+GOLD: t u ʁ n e
+
+SYS: ʁ ə k u v ʁ ɑ̃
+GOLD: ʁ ə k u v ʁ ɑ̃
+
+SYS: f i n i
+GOLD: f i n i
+
+SYS: t ʁ ɛ t e
+GOLD: t ʁ ɛ t e
+
+SYS: t ʁ a v a j e
+GOLD: t ʁ a v a j e
+
+SYS: y z
+GOLD: y z
+
+SYS: k ɔ l
+GOLD: k ɔ l
+
+SYS: k l a k s ɔ n
+GOLD: k l a k s ɔ n
+
+SYS: ʁ ə k ɔ n ɛ s e
+GOLD: ʁ ə k ɔ n ɛ s e
+
+SYS: b u
+GOLD: b u j
+
+SYS: a b i j e
+GOLD: a b i j e
+
+SYS: ʁ e p e t e
+GOLD: ʁ e p e t e
+
+SYS: ɛ̃ p ɔ ʁ t e
+GOLD: ɛ̃ p ɔ ʁ t e
+
+SYS: ʁ e p ɔ̃ d ɔ
+GOLD: ʁ e p ɔ̃ d ɔ
+
+SYS: b a l ɛ j e
+GOLD: b a l ɛ j e
+
+SYS: ʁ ə n u v e
+GOLD: ʁ ə n u v l e
+
+SYS: e f ʁ ɛ j ɑ̃
+GOLD: e f ʁ ɛ j ɑ̃
+
+SYS: k ɔ̃ t i n y
+GOLD: k ɔ̃ t i n y
+
+SYS: p ɑ̃ s ɔ
+GOLD: p ɑ̃ s ɔ
+
+SYS: d e p ɑ̃ s e
+GOLD: d e p ɑ̃ s e
+
+SYS: t ɑ̃ t e
+GOLD: t ɑ̃ t e
+
+SYS: p ɥ e
+GOLD: p ɥ e
+
+SYS: ɔ b l i ʒ e
+GOLD: ɔ b l i ʒ e
+
+SYS: d e k ʁ i v e
+GOLD: d e k ʁ i v e
+
+SYS: ɑ̃ d ɥ i
+GOLD: ɑ̃ d ɥ i
+
+SYS: d e k u ʁ a ʒ e
+GOLD: d e k u ʁ a ʒ e
+
+SYS: k ɔ̃ p a ʁ y
+GOLD: k ɔ̃ p a ʁ y
+
+SYS: d e f ɛ z
+GOLD: d e f ɔ̃
+
+SYS: u b l i j e
+GOLD: u b l i j e
+
+SYS: d e k u v ʁ e
+GOLD: d e k u v ʁ e
+
+SYS: k u ʁ ɔ̃
+GOLD: k u ʁ ɔ̃
+
+SYS: t ʁ ɛ t
+GOLD: t ʁ ɛ t
+
+SYS: a d ɔ ʁ
+GOLD: a d ɔ ʁ
+
+SYS: t ʁ ɛ t ɑ̃
+GOLD: t ʁ ɛ t ɑ̃
+
+SYS: v u v w a j e
+GOLD: v u v w a j e
+
+SYS: a k ɔ̃ p a ɲ
+GOLD: a k ɔ̃ p a ɲ
+
+SYS: ɑ̃ k u ʁ a ʒ
+GOLD: ɑ̃ k u ʁ a ʒ
+
+SYS: ʃ ɑ̃ t
+GOLD: ʃ ɑ̃ t
+
+SYS: k ɔ n ɛ s ɑ̃
+GOLD: k ɔ n ɛ s ɑ̃
+
+SYS: k ɔ̃ p a ʁ ɑ
+GOLD: k ɔ̃ p a ʁ ɑ
+
+SYS: f ɔ̃ d
+GOLD: f ɔ̃ d
+
+SYS: ʁ ɑ̃ ʒ ɔ
+GOLD: ʁ ɑ̃ ʒ e
+
+SYS: ɑ̃ l v e
+GOLD: ɑ̃ l v e
+
+SYS: ɑ̃ ʁ ʒ i s t ʁ e
+GOLD: ɑ̃ ʁ ʒ i s t ʁ e
+
+SYS: ʒ ɛ l
+GOLD: ʒ ɛ l
+
+SYS: e t ɑ̃ d e
+GOLD: e t ɑ̃ d e
+
+SYS: s a l i ʁ
+GOLD: s a l i ʁ
+
+SYS: y z
+GOLD: y z
+
+SYS: ɛ ɡ z a ʒ ɛ ʁ
+GOLD: ɛ ɡ z a ʒ ɛ ʁ
+
+SYS: a p ʁ ɔ ʃ ɑ̃
+GOLD: a p ʁ ɔ ʃ ɑ̃
+
+SYS: ʁ ə p ɑ s ɑ̃
+GOLD: ʁ ə p ɑ s ɑ̃
+
+SYS: p ʁ e f e ʁ ɔ̃
+GOLD: p ʁ e f e ʁ ɔ̃
+
+SYS: ʁ ɑ̃ v w a
+GOLD: ʁ ɑ̃ v w a
+
+SYS: k ɔ̃ s ɛ j
+GOLD: k ɔ̃ s ɛ j
+
+SYS: p ʁ ɔ m ɛ n
+GOLD: p ʁ ɔ m ɛ n
+
+SYS: p ɔ ʁ t
+GOLD: p ɔ ʁ t
+
+SYS: e l i
+GOLD: e l i
+
+SYS: ɡ a ɲ ɔ̃
+GOLD: ɡ a ɲ ɔ̃
+
+SYS: ʁ ɑ̃ d ɑ
+GOLD: ʁ ɑ̃ d ɑ
+
+SYS: o ɡ m ɑ̃ t
+GOLD: o ɡ m ɑ̃ t
+
+SYS: a v ɑ̃ s e
+GOLD: a v ɑ̃ s e
+
+SYS: d e z i ʁ
+GOLD: d e z i ʁ
+
+SYS: e t ɑ̃ d ʁ
+GOLD: e t ɑ̃ d ʁ
+
+SYS: ɛ̃ s i s t e
+GOLD: ɛ̃ s i s t e
+
+SYS: s y p o z ɔ̃
+GOLD: s y p o z ɔ̃
+
+SYS: p ʁ ɛ t
+GOLD: p ʁ ɛ t
+
+SYS: s y ʁ v i v ɑ̃
+GOLD: s y ʁ v i v ɑ̃
+
+SYS: e ɡ ɛ
+GOLD: e ɡ ɛ
+
+SYS: l a v ɔ̃
+GOLD: l a v ɔ̃
+
+SYS: s u f ʁ ɑ̃
+GOLD: s u f ʁ ɑ̃
+
+SYS: ʁ e y s i
+GOLD: ʁ e y s i
+
+SYS: ʒ w i s ɑ̃
+GOLD: ʒ w i s ɑ̃
+
+SYS: t ɛ ʁ m i n ɔ̃
+GOLD: t ɛ ʁ m i n ɔ̃
+
+SYS: ɔ b e i
+GOLD: ɔ b e i
+
+SYS: s k j ɔ̃
+GOLD: s k j ɔ̃
+
+SYS: k u t e
+GOLD: k u t e
+
+SYS: b w a
+GOLD: b w a
+
+SYS: ɑ̃ t ɛ ʁ ɔ
+GOLD: ɑ̃ t ɛ ʁ ɔ
+
+SYS: k ɔ̃ s ɔ m e
+GOLD: k ɔ̃ s ɔ m e
+
+SYS: ʒ y ʒ
+GOLD: ʒ y ʒ
+
+SYS: ɛ k s p l ɔ ʁ
+GOLD: ɛ k s p l ɔ ʁ
+
+SYS: a p ʁ ɔ ʃ
+GOLD: a p ʁ ɔ ʃ
+
+SYS: k ɔ̃ p a ʁ ɛ s ɑ
+GOLD: k ɔ̃ p a ʁ ɛ s ɑ
+
+SYS: ɑ̃ d ɥ i
+GOLD: ɑ̃ d ɥ i
+
+SYS: d w a
+GOLD: d w a
+
+SYS: d e z i ʁ
+GOLD: d e z i ʁ
+
+SYS: s a l i
+GOLD: s a l i
+
+SYS: k ʁ w a
+GOLD: k ʁ w a
+
+SYS: ʒ ə t e
+GOLD: ʒ ə t e
+
+SYS: ʃ y ʃ ɔ t
+GOLD: ʃ y ʃ ɔ t
+
+SYS: ʁ a k ɔ̃ t e
+GOLD: ʁ a k ɔ̃ t e
+
+SYS: k u t
+GOLD: k u t
+
+SYS: v u l ɔ̃
+GOLD: v u l ɔ̃
+
+SYS: i ɲ ɔ ʁ ɔ̃
+GOLD: i ɲ ɔ ʁ ɔ̃
+
+SYS: ɛ ɡ z i s t
+GOLD: ɛ ɡ z i s t
+
+SYS: m ə z y ʁ ɔ̃
+GOLD: m ə z y ʁ ɔ̃
+
+SYS: d e ʁ ɑ̃ ʒ
+GOLD: d e ʁ ɑ̃ ʒ
+
+SYS: d e z i ʁ ɑ̃
+GOLD: d e z i ʁ ɑ̃
+
+SYS: p ʁ e z ɑ̃ t
+GOLD: p ʁ e z ɑ̃ t
+
+SYS: d e ʃ i ʁ
+GOLD: d e ʃ i ʁ
+
+SYS: k ɔ̃ t ʁ ə v j ɛ
+GOLD: k ɔ̃ t ʁ ə v j ɛ
+
+SYS: p ʁ ɔ m ɛ t ɔ̃
+GOLD: p ʁ ɔ m ɛ t ɔ̃
+
+SYS: d i ʁ i ʒ
+GOLD: d i ʁ i ʒ
+
+SYS: ʒ o n i ʁ
+GOLD: ʒ o n i ʁ
+
+SYS: v e ʁ i f j e
+GOLD: v e ʁ i f j e
+
+SYS: f y m
+GOLD: f y m
+
+SYS: k ɔ̃ t ʁ ə v ə n ɔ
+GOLD: k ɔ̃ t ʁ ə v ə n ɔ
+
+SYS: k ɔ̃ d ɥ i z ɑ
+GOLD: k ɔ̃ d ɥ i z ɑ
+
+SYS: ʁ ɑ̃ d
+GOLD: ʁ ɑ̃ d
+
+SYS: p l a s
+GOLD: p l a s
+
+SYS: p ʁ ɔ m n e
+GOLD: p ʁ ɔ m n e
+
+SYS: m ɛ n
+GOLD: m ɛ n
+
+SYS: s a t i s f ɛ
+GOLD: s a t i s f ɛ
+
+SYS: f ʁ a p
+GOLD: f ʁ a p
+
+SYS: f ɛ z e
+GOLD: f ɛ t
+
+SYS: ʁ i
+GOLD: ʁ i
+
+SYS: ʁ ɛ s t e
+GOLD: ʁ ɛ s t e
+
+SYS: a k e ʁ i s ɑ̃
+GOLD: a k e ʁ ɑ̃
+
+SYS: d e m e n a ʒ ɑ̃
+GOLD: d e m e n a ʒ ɑ̃
+
+SYS: k ɔ̃ s ɑ
+GOLD: k ɔ̃ s ɑ
+
+SYS: k ɔ̃ p ʁ ɑ
+GOLD: k ɔ̃ p ʁ i
+
+SYS: d e ʃ i ʁ
+GOLD: d e ʃ i ʁ
+
+SYS: ʁ ə k ɔ̃ d ɥ i z
+GOLD: ʁ ə k ɔ̃ d ɥ i z
+
+SYS: k ɔ̃ s ə v a ʁ
+GOLD: k ɔ̃ s ə v w a ʁ
+
+SYS: t ʁ ɛ t e
+GOLD: t ʁ ɛ t e
+
+SYS: s y ɡ ʒ ɛ ʁ
+GOLD: s y ɡ ʒ ɛ ʁ
+
+SYS: ʁ ə s ɑ̃ t e
+GOLD: ʁ ə s ɑ̃ t e
+
+SYS: ʁ ə p o z
+GOLD: ʁ ə p o z
+
+SYS: ʁ ə n ɔ̃ s e
+GOLD: ʁ ə n ɔ̃ s e
+
+SYS: e k ʁ a z e
+GOLD: e k ʁ a z e
+
+SYS: s e ʒ u ʁ n
+GOLD: s e ʒ u ʁ n
+
+SYS: ʒ o n i
+GOLD: ʒ o n i
+
+SYS: v ɔ l ɔ̃
+GOLD: v ɔ l ɔ̃
+
+SYS: ʒ ɛ t
+GOLD: ʒ ɛ t
+
+SYS: k œ j y
+GOLD: k œ j i
+
+SYS: n ɔ t e
+GOLD: n ɔ t e
+
+SYS: n u ʁ i s e
+GOLD: n u ʁ i s e
+
+SYS: s ə k u ʁ
+GOLD: s ə k u ʁ
+
+SYS: ʁ ə s ə v ɑ̃
+GOLD: ʁ ə s ə v ɑ̃
+
+SYS: k ɔ̃ t i n y
+GOLD: k ɔ̃ t i n y
+
+SYS: d ɑ̃ s
+GOLD: d ɑ̃ s
+
+SYS: d u b l ɑ̃
+GOLD: d u b l ɑ̃
+
+SYS: p l ɔ̃ ʒ e
+GOLD: p l ɔ̃ ʒ e
+
+SYS: d ɑ̃ s e
+GOLD: d ɑ̃ s e
+
+SYS: t e l e f ɔ n e
+GOLD: t e l e f ɔ n e
+
+SYS: ʁ a s y ʁ e
+GOLD: ʁ a s y ʁ e
+
+SYS: ɑ̃ t ʁ ə t j ɛ
+GOLD: ɑ̃ t ʁ ə t j ɛ
+
+SYS: ʁ ə p ʁ ɔ d ɥ i
+GOLD: ʁ ə p ʁ ɔ d ɥ i
+
+SYS: k ɔ m ɑ̃ d
+GOLD: k ɔ m ɑ̃ d
+
+SYS: s ɛ ʁ v
+GOLD: s ɛ ʁ
+
+SYS: k ɔ̃ p l ɛ t
+GOLD: k ɔ̃ p l ɛ t
+
+SYS: k ɔ̃ t ʁ ɛ ɲ
+GOLD: k ɔ̃ t ʁ ɛ ɲ
+
+SYS: ʒ y ʁ
+GOLD: ʒ y ʁ
+
+SYS: ʁ u ʒ i s e
+GOLD: ʁ u ʒ i s e
+
+SYS: a ʁ ɑ̃ ʒ e
+GOLD: a ʁ ɑ̃ ʒ e
+
+SYS: s y ʁ v i v ʁ
+GOLD: s y ʁ v i v ʁ
+
+SYS: p a ʁ t i s i p
+GOLD: p a ʁ t i s i p
+
+SYS: e k ʁ a z e
+GOLD: e k ʁ a z e
+
+SYS: b ʁ ɔ s ɔ̃
+GOLD: b ʁ ɔ s ɔ̃
+
+SYS: ʁ ə k u v ʁ
+GOLD: ʁ ə k u v ʁ
+
+SYS: a p ʁ ɔ ʃ e
+GOLD: a p ʁ ɔ ʃ e
+
+SYS: s a t i s p ɛ z ɑ̃
+GOLD: s a t i s f ə z ɑ̃
+
+SYS: n ɔ m e
+GOLD: n ɔ m e
+
+SYS: d i n
+GOLD: d i n
+
+SYS: e f ʁ ɛ
+GOLD: e f f r a i e s
+
+SYS: e s ɥ i
+GOLD: e s ɥ i
+
+SYS: a b a
+GOLD: a b a
+
+SYS: ɑ̃ l v e
+GOLD: ɑ̃ l v e
+
+SYS: ʁ ə ʒ w ɛ̃
+GOLD: ʁ ə ʒ w ɛ̃
+
+SYS: p ɛ ʁ s ɥ a d
+GOLD: p ɛ ʁ s ɥ a d
+
+SYS: k ɔ̃ s ə v ɔ
+GOLD: k ɔ̃ s v ɔ
+
+SYS: ʁ ə k u v ʁ
+GOLD: ʁ ə k u v ʁ
+
+SYS: d i v ɔ ʁ s
+GOLD: d i v ɔ ʁ s
+
+SYS: d i m i n ɥ ɑ̃
+GOLD: d i m i n ɥ ɑ̃
+
+SYS: a t ɑ̃ d ʁ
+GOLD: a t ɑ̃ d ʁ
+
+SYS: ɑ̃ p ʁ œ t e
+GOLD: ɑ̃ p ʁ œ t e
+
+SYS: a s y ʁ e
+GOLD: a s y ʁ e
+
+SYS: l i z ɑ̃
+GOLD: l i z ɑ̃
+
+SYS: n a ʒ
+GOLD: n a ʒ
+
+SYS: b ʁ y l ɔ̃
+GOLD: b ʁ y l ɔ̃
+
+SYS: s ɔ n
+GOLD: s ɔ n
+
+SYS: a k j ɛ ʁ
+GOLD: a k j ɛ ʁ
+
+SYS: m ɑ̃ ʒ e
+GOLD: m ɑ̃ ʒ e
+
+SYS: f ɛ ʁ m
+GOLD: f ɛ ʁ m
+
+SYS: ɛ s p ɛ ʁ
+GOLD: ɛ s p ɛ ʁ
+
+SYS: a p ʁ u v e
+GOLD: a p ʁ u v e
+
+SYS: d e s i n e
+GOLD: d e s i n e
+
+SYS: ʁ ə f ɛ
+GOLD: ʁ ə f ɛ
+
+SYS: ʁ ə f ɛ z ɑ̃
+GOLD: ʁ ə f ə z ɑ̃
+
+SYS: s o v ɔ̃
+GOLD: s o v ɔ̃
+
+SYS: ʁ e d i ʒ
+GOLD: ʁ e d i ʒ
+
+SYS: ʁ e f l e ʃ i
+GOLD: ʁ e f l e ʃ i
+
+SYS: m ɑ̃ k ɑ
+GOLD: m ɑ̃ k ɑ
+
+SYS: ʁ ə k ɔ̃ d ɥ i z ɔ
+GOLD: ʁ ə k ɔ̃ d ɥ i z ɔ
+
+SYS: v i z
+GOLD: v i z
+
+SYS: d e t ɛ s t
+GOLD: d e t ɛ s t
+
+SYS: n ɔ t ɔ̃
+GOLD: n ɔ t ɔ̃
+
+SYS: ɔ p t ə n i ʁ
+GOLD: ɔ p t ə n i ʁ
+
+SYS: k y l p a b i z
+GOLD: k y l p a b i l i z
+
+SYS: e ʃ w e
+GOLD: e ʃ w e
+
+SYS: d i s p a ʁ ɛ s ɔ̃
+GOLD: d i s p a ʁ ɛ s ɔ̃
+
+SYS: ɛ̃ v ɑ t e
+GOLD: ɛ̃ v ɑ t e
+
+SYS: b u j ɔ̃
+GOLD: b u j ɔ̃
+
+SYS: ʁ ə p o z
+GOLD: ʁ ə p o z
+
+SYS: m ə z y ʁ
+GOLD: m ə z y ʁ
+
+SYS: t ʁ ɔ̃ p
+GOLD: t ʁ ɔ̃ p
+
+SYS: d e n ɔ̃ s e
+GOLD: d e n ɔ̃ s e
+
+SYS: e ɡ ɛ
+GOLD: e ɡ ɛ
+
+SYS: ɛ̃ s i s t e
+GOLD: ɛ̃ s i s t e
+
+SYS: v i z ɑ̃
+GOLD: v i z ɑ̃
+
+SYS: a t ɑ̃
+GOLD: a t ɑ̃
+
+SYS: p l ɛ̃
+GOLD: p l ɛ̃
+
+SYS: s u t j ɛ
+GOLD: s u t j ɛ̃
+
+SYS: ɡ ʁ ɑ̃ d i ʁ
+GOLD: ɡ ʁ ɑ̃ d i ʁ
+
+SYS: s ə k w e
+GOLD: s ə k w e
+
+SYS: p u s ɑ̃
+GOLD: p u s ɑ̃
+
+SYS: p ɔ ʁ t e
+GOLD: p ɔ ʁ t e
+
+SYS: e t ɔ n e
+GOLD: e t ɔ n e
+
+SYS: a i
+GOLD: a i
+
+SYS: a l ɑ̃
+GOLD: a l ɑ̃
+
+SYS: s o v
+GOLD: s o v
+
+SYS: p ʁ ɛ t e
+GOLD: p ʁ ɛ t e
+
+SYS: f i k s
+GOLD: f i k s
+
+SYS: ʁ ə v w a
+GOLD: ʁ ə v w a
+
+SYS: ʁ a l ɑ̃
+GOLD: ʁ a l ɑ̃ t i
+
+SYS: b l ɑ̃ ʃ i ʁ
+GOLD: b l ɑ̃ ʃ i ʁ
+
+SYS: ɡ a ɲ e
+GOLD: ɡ a ɲ e
+
+SYS: k ɔ̃ p ʁ ə n e
+GOLD: k ɔ̃ p ʁ ə n e
+
+SYS: p ʁ ɑ̃ d ʁ
+GOLD: p ʁ ɑ̃ d ʁ
+
+SYS: k ʁ e
+GOLD: k ʁ e
+
+SYS: a k ɔ̃ p a ɲ
+GOLD: a k ɔ̃ p a ɲ
+
+SYS: v u v w a
+GOLD: v u v w a
+
+SYS: d e k ʁ i
+GOLD: d e k ʁ i
+
+SYS: l w e
+GOLD: l w e
+
+SYS: d i s p a ʁ ɛ ʁ
+GOLD: d i s p a ʁ ɛ t ʁ
+
+SYS: a n ɔ̃ s
+GOLD: a n ɔ̃ s
+
+SYS: b l ɑ̃ ʃ i
+GOLD: b l ɑ̃ ʃ i
+
+SYS: p ʁ ɔ p o z e
+GOLD: p ʁ ɔ p o z e
+
+SYS: ɛ̃ v ɑ t ɑ
+GOLD: ɛ̃ v ɑ t ɑ
+
+SYS: ʁ ə k u ʁ e
+GOLD: ʁ ə k u ʁ e
+
+SYS: n i
+GOLD: n i
+
+SYS: v ø
+GOLD: v ø
+
+SYS: s e l e b ʁ ɑ̃
+GOLD: s e l e b ʁ ɑ̃
+
+SYS: s y ɡ ʒ e ʁ ɔ̃
+GOLD: s y ɡ ʒ e ʁ ɔ̃
+
+SYS: t ɑ̃ d ɑ
+GOLD: t ɑ̃ d ɑ
+
+SYS: a d ɔ ʁ
+GOLD: a d ɔ ʁ
+
+SYS: d e s w a v
+GOLD: d e s w a v
+
+SYS: ɛ̃ v ɑ t e
+GOLD: ɛ̃ v ɑ t e
+
+SYS: k ɔ̃ t ʁ ə d i
+GOLD: k ɔ̃ t ʁ ə d i
+
+SYS: t y
+GOLD: t y
+
+SYS: ʁ ə d i
+GOLD: ʁ ə d i
+
+SYS: p e n ɛ t ʁ
+GOLD: p e n ɛ t ʁ
+
+SYS: s y p ɔ ʁ t
+GOLD: s y p ɔ ʁ t
+
+SYS: s w ɛ t e
+GOLD: s w ɛ t e
+
+SYS: ʁ u l
+GOLD: ʁ u l
+
+SYS: ɛ̃ t ɛ ʁ v j ɛ n
+GOLD: ɛ̃ t ɛ ʁ v j ɛ n
+
+SYS: ɛ̃ v i t e
+GOLD: ɛ̃ v i t e
+
+SYS: e f ʁ ɛ j e
+GOLD: e f ʁ ɛ j e
+
+SYS: a s i
+GOLD: a s s i e d s
+
+SYS: s ɛ ʁ v ɔ̃
+GOLD: s ɛ ʁ v ɔ̃
+
+SYS: ʁ ə t ʁ u v
+GOLD: ʁ ə t ʁ u v
+
+SYS: p ɛ ɲ e
+GOLD: p ɛ ɲ e
+
+SYS: p o z
+GOLD: p o z
+
+SYS: ɑ̃ d ɥ i z
+GOLD: ɑ̃ d ɥ i z
+
+SYS: f y m
+GOLD: f y m
+
+SYS: f u j
+GOLD: f u j
+
+SYS: a k ɔ ʁ d
+GOLD: a k ɔ ʁ d
+
+SYS: p ʁ u v
+GOLD: p ʁ u v
+
+SYS: k ɔ m ɑ̃ s e
+GOLD: k ɔ m ɑ̃ s e
+
+SYS: e ʃ a p e
+GOLD: e ʃ a p e
+
+SYS: ɛ
+GOLD: ɛ
+
+SYS: k u p
+GOLD: k u p
+
+SYS: ɡ e ʁ i ʁ
+GOLD: ɡ e ʁ i ʁ
+
+SYS: e p l e
+GOLD: e p l e
+
+SYS: s a ʃ ɔ̃
+GOLD: s a v ɔ̃
+
+SYS: k u z ɔ̃
+GOLD: k u z ɔ̃
+
+SYS: l w ɔ̃
+GOLD: l w ɔ̃
+
+SYS: v e ʁ i f j e
+GOLD: v e ʁ i f j e
+
+SYS: a ʁ ɑ̃ ʒ
+GOLD: a ʁ ɑ̃ ʒ
+
+SYS: k ʁ ɛ̃ d ʁ
+GOLD: k ʁ ɛ̃ d ʁ
+
+SYS: ʁ ə n u v l
+GOLD: ʁ ə n u v e l
+
+SYS: ʁ ə n u v l ɑ̃
+GOLD: ʁ ə n u v l ɑ̃
+
+SYS: e ʃ a p e
+GOLD: e ʃ a p e
+
+SYS: ʁ ə s ɑ̃ b ɑ
+GOLD: ʁ ə s ɑ̃ b l ɑ
+
+SYS: l ə v e
+GOLD: l ə v e
+
+SYS: ʁ e v ɛ j ɑ̃
+GOLD: ʁ e v ɛ j ɑ̃
+
+SYS: a d m ɛ t ɑ̃
+GOLD: a d m ɛ t ɑ̃
+
+SYS: n ɛ t w a j e
+GOLD: n ɛ t w a j e
+
+SYS: ɡ a ʁ d e
+GOLD: ɡ a ʁ d e
+
+SYS: v e ʁ i f i
+GOLD: v e ʁ i f i
+
+SYS: k ɔ̃ t i n ɥ ɔ
+GOLD: k ɔ̃ t i n ɥ ɔ
+
+SYS: k i t
+GOLD: k i t
+
+SYS: ʁ ə k u v ʁ
+GOLD: ʁ ə k u v ʁ
+
+SYS: y t i l i z e
+GOLD: y t i l i z e
+
+SYS: p ʁ e f ɛ ʁ
+GOLD: p ʁ e f ɛ ʁ
+
+SYS: t ʁ ɑ̃ s m ɛ t ɑ
+GOLD: t ʁ ɑ̃ s m ɛ t ɑ
+
+SYS: t ɑ̃ t ɑ
+GOLD: t ɑ̃ t ɑ
+
+SYS: s ɛ z i s e
+GOLD: s ɛ z i s e
+
+SYS: ʒ w ɑ̃
+GOLD: ʒ w ɑ̃
+
+SYS: a ʁ ɛ t ɑ̃
+GOLD: a ʁ ɛ t ɑ̃
+
+SYS: d e s w a
+GOLD: d e s w a
+
+SYS: k œ j i ʁ
+GOLD: k œ j i ʁ
+
+SYS: a k ʁ ɔ ʃ
+GOLD: a k ʁ ɔ ʃ
+
+SYS: n e ɡ ɔ s j ɑ̃
+GOLD: n e ɡ ɔ s j ɑ̃
+
+SYS: ɛ̃ t ʁ ɔ d ɥ i ʁ
+GOLD: ɛ̃ t ʁ ɔ d ɥ i ʁ
+
+SYS: a k s ɛ p t e
+GOLD: a k s ɛ p t e
+
+SYS: d e s i n ɑ̃
+GOLD: d e s i n ɑ̃
+
+SYS: p ɛ ʃ
+GOLD: p ɛ ʃ
+
+SYS: ʁ ɑ̃ k ɔ t ʁ e
+GOLD: ʁ ɑ̃ k ɔ t ʁ e
+
+SYS: p ɛ ɲ
+GOLD: p ɛ ɲ
+
+SYS: ɛ̃ d i k e
+GOLD: ɛ̃ d i k e
+
+SYS: a ʁ a ʃ e
+GOLD: a ʁ a ʃ e
+
+SYS: e k ʁ a z
+GOLD: e k ʁ a z
+
+SYS: s ɛ z i s ɑ̃
+GOLD: s ɛ z i s ɑ̃
+
+SYS: p ʁ e v j ɛ
+GOLD: p ʁ e v j ɛ̃
+
+SYS: e z i t
+GOLD: e z i t
+
+SYS: b a l ɛ j
+GOLD: b a l a i e n t
+
+SYS: m ɑ̃ ʒ
+GOLD: m ɑ̃ ʒ
+
+SYS: d e ɡ a ʒ ɑ̃
+GOLD: d e ɡ a ʒ ɑ̃
+
+SYS: d e p ɑ s
+GOLD: d e p ɑ s
+
+SYS: t ʁ a i
+GOLD: t ʁ a i
+
+SYS: m ɑ̃ t e
+GOLD: m ɑ̃ t e
+
+SYS: e ɡ ɛ j e
+GOLD: e ɡ ɛ j e
+
+SYS: v ɑ
+GOLD: v ɔ̃
+
+SYS: s ə k u
+GOLD: s ə k u
+
+SYS: d i v ɔ ʁ s
+GOLD: d i v ɔ ʁ s
+
+SYS: k ɔ l e
+GOLD: k ɔ l e
+
+SYS: ɡ ʁ ɛ̃ p ɑ
+GOLD: ɡ ʁ ɛ̃ p ɑ
+
+SYS: ɡ ʁ ɛ̃ p
+GOLD: ɡ ʁ ɛ̃ p
+
+SYS: k ɔ̃ s w a
+GOLD: k ɔ̃ s w a v
+
+SYS: u b l i j ɑ̃
+GOLD: u b l i j ɑ̃
+
+SYS: p ʁ u v e
+GOLD: p ʁ u v e
+
+SYS: ʁ i s k e
+GOLD: ʁ i s k e
+
+SYS: ʒ w i s
+GOLD: ʒ w i s
+
+SYS: s k j e
+GOLD: s k j e
+
+SYS: a l e
+GOLD: a l e
+
+SYS: m ɔ̃ t ʁ ɑ
+GOLD: m ɔ̃ t ʁ ɑ
+
+SYS: ɔ k y p e
+GOLD: ɔ k y p e
+
+SYS: k ɔ̃ p l e t ɔ
+GOLD: k ɔ̃ p l e t ɔ
+
+SYS: t ʁ a s ɑ̃
+GOLD: t ʁ a s ɑ̃
+
+SYS: s y p o z
+GOLD: s y p o z
+
+SYS: a d ʁ ɛ s
+GOLD: a d ʁ ɛ s
+
+SYS: e p u z e
+GOLD: e p u z e
+
+SYS: s o t
+GOLD: s o t
+
+SYS: p ɛ ʁ d
+GOLD: p ɛ ʁ d
+
+SYS: p u s
+GOLD: p u s
+
+SYS: v ə n y
+GOLD: v ə n y
+
+SYS: v u v w a
+GOLD: v u v w a
+
+SYS: ɡ u t ɔ̃
+GOLD: ɡ u t ɔ̃
+
+SYS: e f ʁ ɛ j
+GOLD: e f f r a i e n t
+
+SYS: p a ʁ
+GOLD: p a ʁ
+
+SYS: ɑ̃ v w a
+GOLD: ɑ̃ v w a
+
+SYS: ʒ ə t e
+GOLD: ʒ ə t e
+
+SYS: k ɔ̃ p ʁ ɑ
+GOLD: k ɔ̃ p ʁ ɑ
+
+SYS: d i m i n ɥ e
+GOLD: d i m i n ɥ e
+
+SYS: ʁ e f l e ʃ i
+GOLD: ʁ e f l e ʃ i
+
+SYS: p u s e
+GOLD: p u s e
+
+SYS: b l ɑ̃ ʃ i
+GOLD: b l ɑ̃ ʃ i
+
+SYS: d i s k y t e
+GOLD: d i s k y t e
+
+SYS: t ʁ a v ɛ ʁ s
+GOLD: t ʁ a v ɛ ʁ s
+
+SYS: a ʁ a ʃ ɔ̃
+GOLD: a ʁ a ʃ ɔ̃
+
+SYS: ɑ̃ k u ʁ a ʒ
+GOLD: ɑ̃ k u ʁ a ʒ
+
+SYS: ɛ d
+GOLD: ɛ d
+
+SYS: b u ʒ e
+GOLD: b u ʒ e
+
+SYS: p a ʁ d ɔ n
+GOLD: p a ʁ d ɔ n
+
+SYS: s u t n i ʁ
+GOLD: s u t n i ʁ
+
+SYS: p ɛ z
+GOLD: p ɛ z
+
+SYS: k ɔ̃ s ɛ ʁ n ɔ
+GOLD: k ɔ̃ s ɛ ʁ n ɔ
+
+SYS: ʁ ə p ʁ e z ɑ̃ t e
+GOLD: ʁ ə p ʁ e z ɑ̃ t e
+
+SYS: f ɛ ʁ m
+GOLD: f ɛ ʁ m
+
+SYS: ʁ ə s ɑ̃ b e
+GOLD: ʁ ə s ɑ̃ b l e
+
+SYS: p ʁ e v n i
+GOLD: p ʁ e v n y
+
+SYS: k ɔ̃ v j ɛ
+GOLD: k ɔ̃ v j ɛ
+
+SYS: l ɛ v
+GOLD: l ɛ v
+
+SYS: v ɛ ʁ s ɑ̃
+GOLD: v ɛ ʁ s ɑ̃
+
+SYS: p ʁ ɔ m i
+GOLD: p ʁ ɔ m i
+
+SYS: a d ɔ ʁ
+GOLD: a d ɔ ʁ
+
+SYS: e k ʁ a z e
+GOLD: e k ʁ a z e
+
+SYS: ɛ̃ d i k ɑ
+GOLD: ɛ̃ d i k ɑ
+
+SYS: m œ ʁ
+GOLD: m œ ʁ
+
+SYS: a p l e
+GOLD: a p ə l e
+
+SYS: p ɔ s e d e
+GOLD: p ɔ s e d e
+
+SYS: a t ʁ a p e
+GOLD: a t ʁ a p e
+
+SYS: e ʃ w ɑ̃
+GOLD: e ʃ w ɑ̃
+
+SYS: p u v w a ʁ
+GOLD: p u v w a ʁ
+
+SYS: p ɛ̃
+GOLD: p ɛ̃
+
+SYS: d e p ɛ ʃ ɔ̃
+GOLD: d e p ɛ ʃ ɔ̃
+
+SYS: t ɔ̃
+GOLD: t ɔ̃
+
+SYS: ʁ ə t ə n i ʁ
+GOLD: ʁ ə t ə n i ʁ
+
+SYS: a b i j
+GOLD: a b i j
+
+SYS: f ɔ̃ d
+GOLD: f ɔ̃ d
+
+SYS: ɛ m
+GOLD: ɛ m
+
+SYS: p o z e
+GOLD: p o z e
+
+SYS: k u z
+GOLD: k u z y
+
+SYS: a k œ j
+GOLD: a k œ j i
+
+SYS: a ʁ ɛ t e
+GOLD: a ʁ ɛ t e
+
+SYS: s o v
+GOLD: s o v
+
+SYS: p ʁ e v j ɛ n
+GOLD: p ʁ e v j ɛ n
+
+SYS: ʁ ə f ə z ɔ̃
+GOLD: ʁ ə f ə z ɔ̃
+
+SYS: v i z i t e
+GOLD: v i z i t e
+
+SYS: ɛ̃ t ɛ ʁ v ə n y
+GOLD: ɛ̃ t ɛ ʁ v ə n y
+
+SYS: s y ʁ v j ɛ̃
+GOLD: s y ʁ v j ɛ̃
+
+SYS: v j ɛ j i
+GOLD: v j ɛ j i
+
+SYS: ʁ ə v j ɛ̃
+GOLD: ʁ ə v j ɛ̃
+
+SYS: a m n e
+GOLD: a m n e
+
+SYS: ɔ f ʁ i ʁ
+GOLD: ɔ f ʁ i ʁ
+
+SYS: p u ʁ s ɥ i v y
+GOLD: p u ʁ s ɥ i v i
+
+SYS: d e k u v ʁ
+GOLD: d e k u v ʁ
+
+SYS: b a l ɑ̃ s
+GOLD: b a l ɑ̃ s
+
+SYS: a p ɛ ʁ s w a
+GOLD: a p ɛ ʁ s w a v
+
