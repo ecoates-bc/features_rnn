@@ -27,26 +27,26 @@ def get_inaccuracies(file):
             inacc.append('SYS: ' + x + '\nGOLD: ' + y)
     return inacc
 
-
-# orth = get_file('orth_test_withatt.txt')
+#
+# orth = get_file('results/orth_test_withatt.txt')
 # print(get_acc(orth))
 # orth_inacc = get_inaccuracies(orth)
 # for line in orth_inacc:
 #     print(line)
 
-# ipa = get_file('ipa_test_withatt.txt')
+# ipa = get_file('results/ipa_test_withatt.txt')
 # print(get_acc(ipa))
 # ipa_inacc = get_inaccuracies(ipa)
 # for line in ipa_inacc:
 #     print(line)
 
-# feat = get_file('features_test_withatt.txt')
+# feat = get_file('results/features_test_withatt.txt')
 # print(get_acc(feat))
 # feat_inacc = get_inaccuracies(feat)
 # for line in feat_inacc:
 #     print(line)
 
-comb = get_file('results/combined_test_withatt.txt')
+comb = get_file('combined_epitran_results_2.txt')
 print(get_acc(comb))
 feat_inacc = get_inaccuracies(comb)
 for line in feat_inacc:

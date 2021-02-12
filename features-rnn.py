@@ -114,7 +114,7 @@ class TagEncoder:
     Returns a mini-one-hot vector for tags, for use in the other encoders
     """
     def __init__(self):
-        self.tag_dict = self.read_tags('data/fra_verbs_IPA.tsv')
+        self.tag_dict = self.read_tags('data/fra_verbs_EPITRAN.tsv')
         self.tag_dict['<EOS>'] = len(self.tag_dict)
         self.tag_dict['<SOS>'] = len(self.tag_dict)
         self.num_tags = len(self.tag_dict)
@@ -154,7 +154,7 @@ class Dataset:
     Split into train/dev/test, shuffle data
     """
     def __init__(self, dev_ratio, test_ratio):
-        self.ipa = [self.format(line) for line in open('data/fra_verbs_IPA.tsv', 'r').readlines()]
+        self.ipa = [self.format(line) for line in open('data/fra_verbs_EPITRAN.tsv', 'r').readlines()]
         self.orth = [self.format(line) for line in open('data/fra_verbs_ORTH.tsv', 'r').readlines()]
         self.dataset = [ElemTuple(WordLine(self.ipa[i]), WordLine(self.orth[i])) for i in range(len(self.ipa))]
         self.dataset = self.split_into_test_train(self.dataset, dev_ratio, test_ratio)
@@ -285,6 +285,9 @@ class Attention(nn.Module):
         softmax = softmax * encoder_hss
         return softmax.sum(0).unsqueeze(0)
 
+    # For combined model: pass each encoder_hss from the two encoders into attention, to get two output hidden states,
+    #   concatenate them, and then pass to the decoder
+
 
 class DecoderRNN(nn.Module):
     """
@@ -296,6 +299,7 @@ class DecoderRNN(nn.Module):
         self.embedding = nn.Embedding(len(self.alphabet), EMBEDDING_DIM)
         self.rnn = nn.LSTM(EMBEDDING_DIM + 2*RNN_HIDDEN_DIM*input_scale, RNN_HIDDEN_DIM, RNN_LAYERS, bidirectional=False)
         self.hidden2char = nn.Linear(RNN_HIDDEN_DIM, len(self.alphabet))
+        # For combined model: self.orth_attention and self.features_attention
         self.attention = Attention()
 
     # def forward(self, example, encoder_hs):
@@ -314,6 +318,7 @@ class DecoderRNN(nn.Module):
 
     def forward(self, example, encoder_hss, sos_char=44, eos_char=43):
         # forward with attention
+        # TODO: for combined model: send orth_hs and feat_hs to respective attention layers, then concatenate
         embedded_output = self.embedding(example[:-1])
         embedded_output = embedded_output.unsqueeze(1)
         decoder_state = (torch.zeros(1, 1, RNN_HIDDEN_DIM), torch.zeros(1, 1, RNN_HIDDEN_DIM))
@@ -528,7 +533,7 @@ if __name__=='__main__':
         print('DEV ACC: %.2f%%' % accuracy(sys_dev_words, dev_labels))
         print()
 
-    with open('results/combined_test_withatt.txt', 'w') as output:
+    with open('combined_epitran_results_2.txt', 'w') as output:
         test_orth_data = [torch.LongTensor([wi.orth_encode(i) for i in datum]) for datum in test_orth_ds['data']]
         test_ipa_data = [torch.LongTensor([wi.ipa_encode(i) for i in datum]) for datum in test_ipa_ds['data']]
         test_features = [torch.LongTensor([wi.get_features(i) for i in datum]) for datum in test_ipa_ds['data']]
